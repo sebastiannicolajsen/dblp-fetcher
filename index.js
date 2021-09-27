@@ -15,13 +15,14 @@ const keypress = async () => {
   }
 
 
-const {results, na} = await parseAll('https://dblp.org/db/conf/popl/index.html');
+const {results, na} = await parseAll('https://dblp.org/db/conf/hopl/index.html');
 const loaded = await loader(results);
 
-const length = Object.entries(results).length;
+const initLength = Object.entries(results).length;
+const length = Object.entries(loaded).length;
 let i = 0;
 
-console.log(`Found ${length}, and lost ${Object.entries(na).length} `)
+console.log(`Found ${initLength}, filtered to ${length}, and lost ${Object.entries(na).length} `)
 for(const [doi, {title, address}] of Object.entries(loaded)){
     clipboardy.writeSync(title)
     console.log(`opening ${doi} (${i}/${length})`)
