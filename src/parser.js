@@ -10,6 +10,16 @@ export async function parseList(list){
     dom.window.document.querySelectorAll(".toc-link").forEach(function(e){
         results.push(e.href);
     })
+
+    dom.window.document.querySelectorAll("p")?.forEach(function(e){
+        if(e.textContent.toLowerCase().includes("proceedings")){
+            const path = e.querySelector("a")?.href;
+            if(path) results.push(path);
+        }
+        
+        
+    })
+
     return results;
 }
 
@@ -26,7 +36,7 @@ export async function parsePage(page){
             if(!doi) {
                 na.push(title)
             } else {
-                results[doi] = title;
+                results[doi] = { title, address: doi};
             }
             
         })
@@ -48,5 +58,14 @@ export async function parseAll(list){
     return result;
 }
 
-
+export async function parseMultiple(list){
+    let result = {};
+    for(const path of list){
+        const articles = await parseAll(path); 
+        const results = {...result.results, ...articles.results}
+        const na = {...result.na, ...articles.na}
+        result = {results, na};
+    }
+    return result;
+}
 

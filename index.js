@@ -1,35 +1,40 @@
-import {parseAll} from './src/parser.js';
+import { parseMultiple} from './src/parser.js';
 import loader from './src/loader.js';
-import open from 'open';
-import clipboardy from 'clipboardy';
 import dotenv from 'dotenv';
+import minimist from 'minimist';
+import fs from 'fs';
 
 dotenv.config();
 
-const keypress = async () => {
-    process.stdin.setRawMode(true)
-    return new Promise(resolve => process.stdin.once('data', (dat) => {
-      process.stdin.setRawMode(false)
-      resolve()
-    }))
-  }
 
+const paths = [
+    'https://dblp.org/db/conf/hopl/index.html',
+    'https://dblp.org/db/conf/popl/index.html',
+    'https://dblp.org/db/conf/pldi/index.html',
+    'https://dblp.org/db/conf/cgo/index.html',
+    'https://dblp.org/db/conf/dls/index.html',
+    'https://dblp.org/db/conf/gpce/index.html',
+    'https://dblp.org/db/conf/oopsla/index.html',
+    'https://dblp.org/db/conf/sle/index.html',
+    
+]
 
-const {results, na} = await parseAll('https://dblp.org/db/conf/hopl/index.html');
-const loaded = await loader(results);
+const argv = minimist(process.argv.slice(2))
+let results, na;
 
-const initLength = Object.entries(results).length;
-const length = Object.entries(loaded).length;
-let i = 0;
-
-console.log(`Found ${initLength}, filtered to ${length}, and lost ${Object.entries(na).length} `)
-for(const [doi, {title, address}] of Object.entries(loaded)){
-    clipboardy.writeSync(title)
-    console.log(`opening ${doi} (${i}/${length})`)
-    open(address, {app: { name: "google chrome"}} )
-    i++;
-    await keypress()
+if(argv["file"]){
+    console.log("running with existing file...")
+    const input = fs.readFileSync(argv["file"]);
+    results = JSON.parse(input);
+    na = []
+} else {
+    const res = await parseMultiple(paths);
+    results = res.results;
+    na = res.na;
 }
+
+console.log(`Initially found ${Object.entries(results).length}, and lost ${Object.entries(na).length} `)
+await loader(results);
 
 
 

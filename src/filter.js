@@ -5,7 +5,11 @@ export default function filter(results, filters, tag){
     
     const filtered = asArray.filter(function([key, value]){
         for(const {process_tag, filter} of filters){
-            if(process_tag === tag && !filter(key,value.toLowerCase())) return false;
+            if(
+                key !== "index" && 
+                process_tag === tag && 
+                !filter(key, value)
+            ) return false;
         }
         return true;
     });

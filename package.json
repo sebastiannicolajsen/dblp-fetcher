@@ -22,9 +22,12 @@
     "axios": "^0.21.4",
     "clipboardy": "^2.3.0",
     "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
     "html-pdf-chrome": "^0.7.1",
     "jsdom": "^17.0.0",
+    "minimist": "^1.2.5",
     "node-fetch": "^3.0.0",
-    "open": "^8.2.1"
+    "open": "^8.2.1",
+    "readkey": "^1.0.0"
   }
 }
