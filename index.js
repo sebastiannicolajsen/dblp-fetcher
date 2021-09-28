@@ -9,19 +9,6 @@ dotenv.config();
 
 const FILE = "file";
 
-const paths = [
-  "https://dblp.org/db/journals/toplas/index.html",
-  "https://dblp.org/db/journals/pacmpl/index.html",
-  "https://dblp.org/db/conf/hopl/index.html",
-  "https://dblp.org/db/conf/popl/index.html",
-  "https://dblp.org/db/conf/pldi/index.html",
-  "https://dblp.org/db/conf/cgo/index.html",
-  "https://dblp.org/db/conf/dls/index.html",
-  "https://dblp.org/db/conf/gpce/index.html",
-  "https://dblp.org/db/conf/oopsla/index.html",
-  "https://dblp.org/db/conf/sle/index.html",
-];
-
 let results, na;
 
 if (args[FILE]) {

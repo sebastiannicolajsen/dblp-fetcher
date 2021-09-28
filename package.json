@@ -29,6 +29,7 @@
     "minimist": "^1.2.5",
     "node-fetch": "^3.0.0",
     "open": "^8.2.1",
-    "readkey": "^1.0.0"
+    "readkey": "^1.0.0",
+    "readline": "^1.3.0"
   }
 }
