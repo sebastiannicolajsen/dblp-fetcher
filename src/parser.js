@@ -1,6 +1,7 @@
 
 import fetch from 'node-fetch';
 import {JSDOM } from 'jsdom';
+import cliProgress from 'cli-progress';
 
 export async function parseList(list){
     const result = await fetch(list);
@@ -16,8 +17,6 @@ export async function parseList(list){
             const path = e.querySelector("a")?.href;
             if(path) results.push(path);
         }
-        
-        
     })
 
     return results;
@@ -48,8 +47,7 @@ export async function parsePage(page){
 
 export async function parseAll(list){
     let result = {};
-    const urls = await parseList(list);
-    for(const url of urls){
+    for(const url of list){
         const articles = await parsePage(url);
         const results = {...result.results, ...articles.results}
         const na = {...result.na, ...articles.na}
@@ -60,12 +58,24 @@ export async function parseAll(list){
 
 export async function parseMultiple(list){
     let result = {};
-    for(const path of list){
-        const articles = await parseAll(path); 
-        const results = {...result.results, ...articles.results}
-        const na = {...result.na, ...articles.na}
-        result = {results, na};
+    const paths = await Promise.all(list.map(i => parseList(i)));  
+    const length = paths.reduce((sum, z) => sum + z.length, 0);
+    const bar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
+    console.log("Fetching articles from pages ...")
+    bar.start(length, 0)
+
+    for(const list of paths){
+        for(const path of list ){
+            const articles = await parsePage(path); 
+            const results = {...result.results, ...articles.results}
+            const na = {...result.na, ...articles.na}
+            result = {results, na};
+            bar.increment();
+        }    
     }
+
+    bar.stop();
+    console.log("\n"); // spacing
     return result;
 }
 
