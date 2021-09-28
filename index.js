@@ -3,6 +3,7 @@ import loader from "./src/loader.js";
 import dotenv from "dotenv";
 import args from "./src/args.js";
 import fs from "fs";
+import getVenues from "./src/venue-propagator.js";
 
 dotenv.config();
 
@@ -29,7 +30,7 @@ if (args[FILE]) {
   results = JSON.parse(input);
   na = [];
 } else {
-  const res = await parseMultiple(paths);
+  const res = await parseMultiple(await getVenues());
   results = res.results;
   na = res.na;
 }
