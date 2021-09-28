@@ -1,30 +1,32 @@
 import { parseMultiple} from './src/parser.js';
 import loader from './src/loader.js';
 import dotenv from 'dotenv';
-import minimist from 'minimist';
+import args from './src/args.js'
 import fs from 'fs';
 
 dotenv.config();
 
+const FILE = 'file'
+
 
 const paths = [
     'https://dblp.org/db/conf/hopl/index.html',
-    'https://dblp.org/db/conf/popl/index.html',
-    'https://dblp.org/db/conf/pldi/index.html',
-    'https://dblp.org/db/conf/cgo/index.html',
-    'https://dblp.org/db/conf/dls/index.html',
-    'https://dblp.org/db/conf/gpce/index.html',
-    'https://dblp.org/db/conf/oopsla/index.html',
-    'https://dblp.org/db/conf/sle/index.html',
-    
+    //'https://dblp.org/db/conf/popl/index.html',
+    //'https://dblp.org/db/conf/pldi/index.html',
+    //'https://dblp.org/db/conf/cgo/index.html',
+    //'https://dblp.org/db/conf/dls/index.html',
+    //'https://dblp.org/db/conf/gpce/index.html',
+    //'https://dblp.org/db/conf/oopsla/index.html',
+    //'https://dblp.org/db/conf/sle/index.html',
+
 ]
 
-const argv = minimist(process.argv.slice(2))
+
 let results, na;
 
-if(argv["file"]){
+if(args[FILE]){
     console.log("running with existing file...")
-    const input = fs.readFileSync(argv["file"]);
+    const input = fs.readFileSync(args[FILE]);
     results = JSON.parse(input);
     na = []
 } else {

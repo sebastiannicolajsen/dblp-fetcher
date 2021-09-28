@@ -2,7 +2,11 @@ import open from 'open';
 import clipboardy from 'clipboardy';
 import readkey from 'readkey';
 import fs from 'fs';
+import args from '../args.js'
 
+
+const SILENT = 'silent'
+const SAVE = 'save'
 
 // consumes the input
 export default function (input) {
@@ -13,10 +17,11 @@ export default function (input) {
     input.index = i ? i : 0; 
 
     const exec = () => {
+        
         const [doi, {title, address}] = objs[input.index]
         clipboardy.writeSync(title)
         console.log(`${doi} (${input.index}): ${title}`)
-        open(address, {app: { name: "google chrome"}} )
+        if(!args[SILENT]) openArticle()
     }
 
     const forward = () => {        
@@ -30,24 +35,31 @@ export default function (input) {
         exec();
     }
 
-    const label = () => {
-        const [doi, _] = objs[input.index]
-        input[doi].label = true
-        console.log(`${doi} labelled.`)
+    const openArticle = () => {
+        const [doi, {title, address}] = objs[input.index]
+        open(address, {app: { name: "google chrome"}} )
     }
 
-    const save = () => {
-        const path = process.env.FILE;
-        fs.writeFileSync(path, JSON.stringify(input));
+    const label = () => {
+        const [doi, _] = objs[input.index]
+        input[doi].label = !input[doi].label
+        console.log(`${doi} labelled: ${input[doi].label}`)
+    }
+
+    const exit = () => {
+        if(args[SAVE]) {
+            const path = process.env.FILE;
+            fs.writeFileSync(path, JSON.stringify(input));
+        }
         process.exit();
-    }   
+    }
  
     const keyCommands = [
         {fn: (str, key) => str === 'f', command: forward},
         {fn: (str, key) => str === 'b', command: backward},
-        {fn: (str, key) => key.ctrl && key.name === 'c', command: () => process.exit()},
-        {fn: (str, key) => str === 's', command: save},
-        {fn: (str, key) => str === 'x', command: label}
+        {fn: (str, key) => key.ctrl && key.name === 'c', command: exit},
+        {fn: (str, key) => str === 'x', command: label},
+        {fn: (str, key) => str === 'o', command: openArticle},
     ]
     exec()
     readkey(keyCommands)
