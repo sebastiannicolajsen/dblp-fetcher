@@ -7,17 +7,23 @@ process.stdout.on("resize", function () {
   console.log(columns);
 });
 
+const RED = "\x1b[31m";
+const RESET = "\x1b[0m";
+
 // eliminates up two 2 newlines added by clear_string
+
+let _last;
 export const print = (
   out,
   config = {
-    clear_string: undefined,
+    clear_string: false,
+    color: false,
   }
 ) => {
-  const { clear_string } = config;
+  const { clear_string, color } = config;
   if (clear_string) {
-    const lines = clear_string.split(/\n/);
-    let length = lines.length * 2;
+    const lines = _last;
+    let length = 0;
     for (const line of lines) {
       length = length + Math.ceil(line.length / columns);
     }
@@ -26,8 +32,9 @@ export const print = (
     process.stdout.cursorTo(0);
     process.stdout.clearScreenDown();
   }
-
-  process.stdout.write(out + NEW_LINE);
+  _last = out + NEW_LINE;
+  if (color) _last = RED + _last + RESET;
+  process.stdout.write(_last);
 };
 
 export const clearLine = () => {

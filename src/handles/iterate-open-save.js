@@ -19,19 +19,23 @@ export default function (input) {
 
   input.index = i ? i : 0;
 
-  let _last = "";
-  const clearPrint = (output) => {
+  let first = false;
+  const clearPrint = (output, color = false) => {
     const str = `${output}\n\n${MSG}`;
     print(str, {
-      clear_string: _last,
+      clear_string: first,
+      color,
     });
-    _last = output;
+    first = true;
   };
 
   const exec = () => {
-    const [doi, { title, address }] = objs[input.index];
+    const [doi, { title, address, label }] = objs[input.index];
     clipboardy.writeSync(title);
-    clearPrint(`${doi} (${input.index}): ${title}`);
+    clearPrint(
+      `[${label ? "X" : " "}] ${doi} (${input.index}): ${title}`,
+      label
+    );
     if (!args[SILENT]) openArticle();
   };
 
@@ -77,18 +81,20 @@ export default function (input) {
     rl.on("line", (line) => {
       if (!_commenting) return;
       const [doi, _] = objs[input.index];
-      input[doi].comment = line;
-      clearPrint(`Added comment to ${doi}: ${line}`);
+      const short = line.substring(line.indexOf("c") + 1); // eliminates all prior input
+      console.log(short);
+      input[doi].comment = short;
+      clearPrint(`Added comment to ${doi}: ${short}`);
       _commenting = false;
     });
   };
 
   const keyCommands = [
-    { fn: (str, key) => str === "f", command: forward },
-    { fn: (str, key) => str === "b", command: backward },
+    { fn: (str, key) => str === "f" && !_commenting, command: forward },
+    { fn: (str, key) => str === "b" && !_commenting, command: backward },
     { fn: (str, key) => key.ctrl && key.name === "c", command: exit },
-    { fn: (str, key) => str === "l", command: label },
-    { fn: (str, key) => str === "o", command: openArticle },
+    { fn: (str, key) => str === "l" && !_commenting, command: label },
+    { fn: (str, key) => str === "o" && !_commenting, command: openArticle },
     {
       fn: (str, key) => str === "c" && !_commenting,
       command: () => {
