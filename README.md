@@ -38,8 +38,8 @@ Furthermore, some handles may only run if a given flag is set (as is the case wi
 
 ##### Included handlers
 
-`open-browser` - opens all addresses if included, passes forward the input object.
+`open-browser` - opens all addresses if included, passes forward the input object. [process_tag: `open_browser`]
 
-`url-wrapper` - wraps the address field of the input and returns this modified object.
+`url-wrapper` - wraps the address field of the input and returns this modified object [process_tag: `wrapped_url`]
 
-`iterate-open-save` - allows the default controls introduced before and consumes the input (should be last).
+`iterate-open-save` - allows the default controls introduced before and consumes the input (should be last). [process_tag: `iterate_open_save`]
