@@ -13,7 +13,7 @@ let results, na;
 
 if (args[FILE]) {
   console.log("running with existing file...");
-  const input = fs.readFileSync(args[FILE]);
+  const input = fs.readFileSync(args[FILE] + ".json");
   results = JSON.parse(input);
   na = [];
 } else {
