@@ -4,7 +4,6 @@ const NEW_LINE = "\n";
 
 process.stdout.on("resize", function () {
   columns = process.stdout.columns;
-  console.log(columns);
 });
 
 const RED = "\x1b[31m";
