@@ -12,10 +12,12 @@ npm start [venue_1] [venue_2] ... [venue_n]
 Hereafter the script will fetch the articles and allow you to navigate them using the following:
 
 ```javascript
-[F]orward, [B]ackward, [O]pen, [L]abel, [C]omment
+[F]orward, [B]ackward, [O]pen, [L]abel, [C]omment, [S]ave, [J]ump
 ```
 
 (Comments are finished by pressing `enter`)
+
+(`Jump` moves you to the next proceedings or workshop in the list. Note that these titles are included)
 
 Furthermore, the script can be run with different flags (remember to always add `--` after venue specification to enable flags):
 
