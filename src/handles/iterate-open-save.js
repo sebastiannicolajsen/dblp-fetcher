@@ -9,7 +9,8 @@ import readline from "readline";
 const SILENT = "silent";
 const SAVE = "save";
 
-const MSG = "[F]orward, [B]ackward, [O]pen, [L]abel, [C]omment, [S]ave, [J]ump";
+const MSG =
+  "[F]orward*, [B]ackward*, [O]pen, [L]abel, [C]omment, [S]ave, [G]o to (*shift to jump)";
 
 // consumes the input
 export default function (input) {
@@ -18,6 +19,7 @@ export default function (input) {
   const objs = Object.entries(input);
 
   input.index = i ? i : 0;
+  if (i >= objs.length) input.index = 0;
 
   let first = false;
   const clearPrint = (output, color = false) => {
@@ -45,17 +47,24 @@ export default function (input) {
 
   const forward = () => {
     input.index++;
-    if (input.index === objs.length) process.exit();
+    if (input.index === objs.length) exit();
     exec();
   };
 
   const jump = (f) => {
-    const title = () => {
+    const titleIncludes = (incl) => {
       const [_, { title }] = objs[input.index];
-      return title;
+      for (const item of incl) {
+        if (title.toLowerCase().includes(item)) return true;
+      }
+      return false;
     };
-    while (!title().includes("workshop") && !title().includes("proceedings")) {
+
+    f();
+    const ids = ["workshop", "proceeding", "conference"];
+    while (!titleIncludes(ids)) {
       f();
+      if (input.index === 0) break;
     }
   };
 
@@ -93,17 +102,37 @@ export default function (input) {
     output: process.stdout,
   });
 
+  const extractLine = (f, c) => {
+    rl.on("line", (line) => {
+      if (!_commenting) return;
+      const short = line.substring(line.toLowerCase().indexOf(c) + 1); // eliminates all prior input
+      f(short);
+      _commenting = false;
+    });
+  };
+
+  const initLine = (f) => () => {
+    _commenting = true;
+    f();
+  };
+
   const comment = () => {
     clearLine();
 
-    rl.on("line", (line) => {
-      if (!_commenting) return;
+    extractLine((line) => {
       const [doi, _] = objs[input.index];
-      const short = line.substring(line.indexOf("c") + 1); // eliminates all prior input
-      input[doi].comment = short;
-      clearPrint(`Added comment to ${doi}: ${short}`);
-      _commenting = false;
-    });
+      input[doi].comment = line;
+      clearPrint(`Added comment to ${doi}: ${line}`);
+    }, "c");
+  };
+
+  const goTo = () => {
+    clearLine();
+
+    extractLine((line) => {
+      input.index = line;
+      exec();
+    }, "g");
   };
 
   const keyCommands = [
@@ -114,20 +143,18 @@ export default function (input) {
     { fn: (str, key) => str === "s" && !_commenting, command: save },
     { fn: (str, key) => str === "o" && !_commenting, command: openArticle },
     {
-      fn: (str, key) => key.ctrl && str === "j" && !_commenting,
+      fn: (str, key) => key.shift && key.name === "b",
       command: () => jump(backward),
     },
     {
-      fn: (str, key) => str === "j" && !_commenting,
+      fn: (str, key) => str === "F" && !_commenting,
       command: () => jump(forward),
     },
     {
       fn: (str, key) => str === "c" && !_commenting,
-      command: () => {
-        _commenting = true;
-        comment();
-      },
+      command: initLine(comment),
     },
+    { fn: (str, key) => str === "g" && !_commenting, command: initLine(goTo) },
   ];
   exec();
   readkey(keyCommands);
