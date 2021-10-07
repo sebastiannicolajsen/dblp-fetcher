@@ -12,7 +12,7 @@ npm start [venue_1] [venue_2] ... [venue_n]
 Hereafter the script will fetch the articles and allow you to navigate them using the following:
 
 ```javascript
-[F]orward, [B]ackward, [O]pen, [L]abel, [C]omment, [S]ave, [J]ump
+[F]orward*, [B]ackward*, [O]pen, [L]abel, [C]omment, [S]ave, [G]o  (*hold shift to `jump`)
 ```
 
 (Comments are finished by pressing `enter`)
