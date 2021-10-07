@@ -17,7 +17,7 @@ Hereafter the script will fetch the articles and allow you to navigate them usin
 
 (Comments are finished by pressing `enter`)
 
-(`Jump` moves you to the next proceedings or workshop in the list. Note that these titles are included)
+(`Jump` moves you to the next proceedings or workshop or Conference in the list. Note that these titles are included when fetching papers. Works nicely for keeping track of progress)
 
 Furthermore, the script can be run with different flags (remember to always add `--` after venue specification to enable flags):
 
@@ -26,6 +26,7 @@ Furthermore, the script can be run with different flags (remember to always add 
 --save [filename] (saves the fetched articles in json format for further treatment / reload)
 --file [filename] (utilises a specific file instead of fetching anew)
 --wrapper [url] (wraps the url when using [O]pen, can be utilised for google searches)
+--only-label (removes all inserts which do not have a label on them)
 ```
 
 #### Filters

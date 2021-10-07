@@ -1,0 +1,3288 @@
+{
+  "https://doi.org/10.1145/3359619.3359740": {
+    "title": "Michael Homer, Timothy Jones, James Noble: First-class dynamic types. 1-14",
+    "address": "https://doi.org/10.1145/3359619.3359740",
+    "index": 0
+  },
+  "https://doi.org/10.1145/3276945.3276948": {
+    "title": "Guido Chari, Javier Pimás, Jan Vitek, Olivier Flückiger: Self-contained development environments. 76-87",
+    "address": "https://doi.org/10.1145/3276945.3276948",
+    "index": 1
+  },
+  "https://doi.org/10.1145/2989225.2989231": {
+    "title": "Alessandro Warth, Patrick Dubroy, Tony Garnock-Jones: Modular semantic actions. 108-119",
+    "address": "https://doi.org/10.1145/2989225.2989231",
+    "index": 2
+  },
+  "https://doi.org/10.1145/2816707.2816708": {
+    "title": "Michael Homer, Timothy Jones, James Noble: From APIs to languages: generalising method names. 1-12",
+    "address": "https://doi.org/10.1145/2816707.2816708",
+    "index": 3
+  },
+  "https://doi.org/10.1145/2816707.2816721": {
+    "title": "Camille Teruel, Stéphane Ducasse, Damien Cassou, Marcus Denker: Access control to reflection with object ownership. 168-176",
+    "address": "https://doi.org/10.1145/2816707.2816721",
+    "index": 4
+  },
+  "https://doi.org/10.1145/2661088.2661102": {
+    "title": "Stefan Hanenberg: Why do we know so little about programming languages, and what would have happened if we had known more? 1",
+    "address": "https://doi.org/10.1145/2661088.2661102",
+    "index": 5
+  },
+  "https://doi.org/10.1145/2661088.2661098": {
+    "title": "James Ian Johnson, David Van Horn: Abstracting abstract control. 11-22",
+    "address": "https://doi.org/10.1145/2661088.2661098",
+    "index": 6
+  },
+  "https://doi.org/10.1145/2384577.2384583": {
+    "title": "Kurt Nørmark, Lone Leth Thomsen, Bent Thomsen: Object-oriented programming with gradual abstraction. 41-52",
+    "address": "https://doi.org/10.1145/2384577.2384583",
+    "index": 7
+  },
+  "https://doi.org/10.1145/1640134.1640136": {
+    "title": "Jan Vitek: Of scripts and programs: tall tales, urban legends, and future prospects. 1-2",
+    "address": "https://doi.org/10.1145/1640134.1640136",
+    "index": 8
+  },
+  "https://doi.org/10.1145/1640134.1640137": {
+    "title": "Éric Tanter: Beyond static and dynamic scope. 3-14",
+    "address": "https://doi.org/10.1145/1640134.1640137",
+    "index": 9
+  },
+  "https://doi.org/10.1145/1640134.1640140": {
+    "title": "T. Stephen Strickland, Matthias Felleisen: Contracts for first-class modules. 27-38",
+    "address": "https://doi.org/10.1145/1640134.1640140",
+    "index": 10
+  },
+  "https://doi.org/10.1145/1640134.1640143": {
+    "title": "Yit Phang Khoo, Michael Hicks, Jeffrey S. Foster, Vibha Sazawal: Directing JavaScript with arrows. 49-58",
+    "address": "https://doi.org/10.1145/1640134.1640143",
+    "index": 11
+  },
+  "https://doi.org/10.1145/1408681.1408686": {
+    "title": "Laurence Tratt: Language design: back to the future? 5",
+    "address": "https://doi.org/10.1145/1408681.1408686",
+    "index": 12
+  },
+  "https://doi.org/10.1145/1297081.1297087": {
+    "title": "Morten Kromberg: Arrays of objects. 20-28",
+    "address": "https://doi.org/10.1145/1297081.1297087",
+    "index": 13
+  },
+
+  "https://doi.org/10.1145/3425898.3426953": {
+    "title": "Shadaj Laddad, Koushik Sen: Fluid quotes: metaprogramming across abstraction boundaries with dependent types. 98-110",
+    "address": "https://doi.org/10.1145/3425898.3426953",
+    "index": 0
+  },
+  "https://doi.org/10.1145/2993236.2993245": {
+    "title": "Cyrus Omar, Jonathan Aldrich: Programmable semantic fragments: the design and implementation of typy. 81-92",
+    "address": "https://doi.org/10.1145/2993236.2993245",
+    "index": 1
+  },
+  "https://doi.org/10.1145/2814204.2814209": {
+    "title": "Pablo Inostroza, Tijs van der Storm: Modular interpreters for the masses: implicit context propagation using object algebras. 171-180",
+    "address": "https://doi.org/10.1145/2814204.2814209",
+    "index": 2
+  },
+  "https://doi.org/10.1145/2658761.2658765": {
+    "title": "Maria Gouseti, Chiel Peters, Tijs van der Storm: Extensible language implementation with object algebras (short paper). 25-28",
+    "address": "https://doi.org/10.1145/2658761.2658765",
+    "index": 3
+  },
+  "https://doi.org/10.1145/2517208.2517210": {
+    "title": "Sebastian Erdweg, Felix Rieger: A framework for extensible languages. 3-12",
+    "address": "https://doi.org/10.1145/2517208.2517210",
+    "index": 4
+  },
+  "https://doi.org/10.1145/2517208.2517215": {
+    "title": "Sandro Schulze, Jörg Liebig, Janet Siegmund, Sven Apel: Does the discipline of preprocessor annotations matter?: a controlled experiment. 65-74",
+    "address": "https://doi.org/10.1145/2517208.2517215",
+    "index": 5
+  },
+  "https://doi.org/10.1145/2517208.2517228": {
+    "title": "Georg Ofenbeck, Tiark Rompf, Alen Stojanov, Martin Odersky, Markus Püschel: Spiral in scala: towards the systematic construction of generators for performance libraries. 125-134",
+    "address": "https://doi.org/10.1145/2517208.2517228",
+    "index": 6
+  },
+  "https://doi.org/10.1145/2517208.2517225": {
+    "title": "Darya Kurilova, Derek Rayside: On the simplicity of synthesizing linked data structure operations. 155-158",
+    "address": "https://doi.org/10.1145/2517208.2517225",
+    "index": 7
+  },
+  "https://doi.org/10.1145/2528265.2528269": {
+    "title": "Don S. Batory, Peter Höfner, Bernhard Möller, Andreas Zelend: Features, modularity, and variation points. 9-16",
+    "address": "https://doi.org/10.1145/2528265.2528269",
+    "index": 8
+  },
+  "https://doi.org/10.1145/2371401.2371409": {
+    "title": "Eyvind W. Axelsen, Stein Krogdahl: Package templates: a definition by semantics-preserving source-to-source transformations to efficient Java code. 50-59",
+    "address": "https://doi.org/10.1145/2371401.2371409",
+    "index": 9
+  },
+  "https://doi.org/10.1145/2371401.2371411": {
+    "title": "Petr Spacek, Christophe Dony, Chouki Tibermacine, Luc Fabresse: An inheritance system for structural & behavioral reuse in component-based software programming. 60-69",
+    "address": "https://doi.org/10.1145/2371401.2371411",
+    "index": 10
+  },
+  "https://doi.org/10.1145/2047862.2047891": {
+    "title": "Sebastian Erdweg, Lennart C. L. Kats, Tillmann Rendel, Christian Kästner, Klaus Ostermann, Eelco Visser: Growing a language environment with editor libraries. 167-176",
+    "address": "https://doi.org/10.1145/2047862.2047891",
+    "index": 11
+  },
+  "https://doi.org/10.1145/2047862.2047892": {
+    "title": "John Freeman, Jaakko Järvi, Wonseok Kim, Mat Marcus, Sean Parent: Helping programmers help users. 177-184",
+    "address": "https://doi.org/10.1145/2047862.2047892",
+    "index": 12
+  },
+  "https://doi.org/10.1145/1868294.1868295": {
+    "title": "Ralf Lämmel: The hitchhiker's guide to software languages. 1-2",
+    "address": "https://doi.org/10.1145/1868294.1868295",
+    "index": 13
+  },
+  "https://doi.org/10.1145/1868294.1868307": {
+    "title": "Christian Hofer, Klaus Ostermann: Modular domain-specific language components in scala. 83-92",
+    "address": "https://doi.org/10.1145/1868294.1868307",
+    "index": 14
+  },
+  "https://doi.org/10.1145/1868294.1868308": {
+    "title": "Reinhard Wolfinger, Markus Löberbauer, Markus Jahn, Hanspeter Mössenböck: Adding genericity to a plug-in framework. 93-102",
+    "address": "https://doi.org/10.1145/1868294.1868308",
+    "index": 15
+  },
+  "https://doi.org/10.1145/1868688.1868689": {
+    "title": "Christian Prehofer: Feature oriented-programming: back to the future. 1",
+    "address": "https://doi.org/10.1145/1868688.1868689",
+    "index": 16
+  },
+  "https://doi.org/10.1145/1868688.1868699": {
+    "title": "Vinay Kulkarni: Raising family is a good practice. 72-79",
+    "address": "https://doi.org/10.1145/1868688.1868699",
+    "index": 17
+  },
+  "https://doi.org/10.1145/1621607.1621617": {
+    "title": "Yanhong A. Liu, Michael Gorbovitski, Scott D. Stoller: A language and framework for invariant-driven transformations. 55-64",
+    "address": "https://doi.org/10.1145/1621607.1621617",
+    "index": 18
+  },
+  "https://doi.org/10.1145/1621607.1621624": {
+    "title": "Florian Heidenreich, Jendrik Johannes, Mirko Seifert, Christian Wende, Marcel Böhme: Generating safe template languages. 99-108",
+    "address": "https://doi.org/10.1145/1621607.1621624",
+    "index": 19
+  },
+  "https://doi.org/10.1145/1449913.1449919": {
+    "title": "Chang Hwan Peter Kim, Christian Kästner, Don S. Batory: On the modularity of feature interactions. 23-34",
+    "address": "https://doi.org/10.1145/1449913.1449919",
+    "index": 20
+  },
+  "https://doi.org/10.1145/1449913.1449927": {
+    "title": "Jaakko Järvi, Mat Marcus, Sean Parent, John Freeman, Jacob N. Smith: Property models: from incidental algorithms to reusable components. 89-98",
+    "address": "https://doi.org/10.1145/1449913.1449927",
+    "index": 21
+  },
+  "https://doi.org/10.1145/1449913.1449929": {
+    "title": "Erik Meijer: Fundamentalist functional programming. 99-100",
+    "address": "https://doi.org/10.1145/1449913.1449929",
+    "index": 22
+  },
+  "https://doi.org/10.1145/1449913.1449935": {
+    "title": "Christian Hofer, Klaus Ostermann, Tillmann Rendel, Adriaan Moors: Polymorphic embedding of dsls. 137-148",
+    "address": "https://doi.org/10.1145/1449913.1449935",
+    "index": 23
+  },
+  "https://doi.org/10.1145/1289971.1289996": {
+    "title": "Tetsuo Kamina, Tetsuo Tamai: Lightweight scalable components. 145-154",
+    "address": "https://doi.org/10.1145/1289971.1289996",
+    "index": 24
+  },
+  "https://doi.org/10.1007/11561347_7": {
+    "title": "Julia L. Lawall, Hervé Duchesne, Gilles Muller, Anne-Françoise Le Meur: Bossa Nova: Introducing Modularity into the Bossa Domain-Specific Language. 78-93",
+    "address": "https://doi.org/10.1007/11561347_7",
+    "index": 25
+  },
+  "https://doi.org/10.1007/11561347_25": {
+    "title": "Ryan Culpepper, Scott Owens, Matthew Flatt: Syntactic Abstraction in Component Interfaces. 373-388",
+    "address": "https://doi.org/10.1007/11561347_25",
+    "index": 26
+  },
+  "https://doi.org/10.1007/978-3-540-30175-2_26": {
+    "title": "Jack Greenfield: Software Factories: Assembling Applications with Patterns, Models, Frameworks and Tools. 488",
+    "address": "https://doi.org/10.1007/978-3-540-30175-2_26",
+    "index": 27
+  },
+  "https://doi.org/10.1007/978-3-540-30175-2_27": {
+    "title": "Peter D. Mosses: Modular Language Descriptions. 489",
+    "address": "https://doi.org/10.1007/978-3-540-30175-2_27",
+    "index": 28
+  },
+  "https://doi.org/10.1007/978-3-540-39815-8_16": {
+    "title": "Peri L. Tarr: Towards a More Piece-ful World. 265-266",
+    "address": "https://doi.org/10.1007/978-3-540-39815-8_16",
+    "index": 29
+  },
+  "https://doi.org/10.1007/3-540-45821-2_13": {
+    "title": "Oleg Kiselyov: Macros That Compose: Systematic Macro Programming. 202-217",
+    "address": "https://doi.org/10.1007/3-540-45821-2_13",
+    "index": 30
+  },
+  "http://dl.acm.org/citation.cfm?id=1238844": {
+    "title": "Barbara G. Ryder, Brent Hailpern: Proceedings of the Third ACM SIGPLAN History of Programming Languages Conference (HOPL-III), San Diego, California, USA, 9-10 June 2007. ACM 2007",
+    "address": "http://dl.acm.org/citation.cfm?id=1238844",
+    "index": 0
+  },
+  "https://doi.org/10.1145/1238844.1238845": {
+    "title": "William R. Cook: AppleScript. 1-21",
+    "address": "https://doi.org/10.1145/1238844.1238845",
+    "index": 1
+  },
+  "https://doi.org/10.1145/1238844.1238846": {
+    "title": "Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes Filho: The evolution of Lua. 1-26",
+    "address": "https://doi.org/10.1145/1238844.1238846",
+    "index": 2
+  },
+  "https://doi.org/10.1145/1238844.1238847": {
+    "title": "Niklaus Wirth: Modula-2 and Oberon. 1-10",
+    "address": "https://doi.org/10.1145/1238844.1238847",
+    "index": 3
+  },
+  "https://doi.org/10.1145/1238844.1238848": {
+    "title": "Bjarne Stroustrup: Evolving a language in and for the real world: C++ 1991-2006. 1-59",
+    "address": "https://doi.org/10.1145/1238844.1238848",
+    "index": 4
+  },
+  "https://doi.org/10.1145/1238844.1238850": {
+    "title": "Joe Armstrong: A history of Erlang. 1-26",
+    "address": "https://doi.org/10.1145/1238844.1238850",
+    "index": 5
+  },
+  "https://doi.org/10.1145/1238844.1238853": {
+    "title": "David M. Ungar, Randall B. Smith: Self. 1-50",
+    "address": "https://doi.org/10.1145/1238844.1238853",
+    "index": 6
+  },
+  "https://doi.org/10.1145/1238844.1238852": {
+    "title": "Lawrence Snyder: The design and development of ZPL. 1-37",
+    "address": "https://doi.org/10.1145/1238844.1238852",
+    "index": 7
+  },
+  "https://doi.org/10.1145/1238844.1238854": {
+    "title": "Bent Bruun Kristensen, Ole Lehrmann Madsen, Birger Møller-Pedersen: The when, why and why not of the BETA programming language. 1-57",
+    "address": "https://doi.org/10.1145/1238844.1238854",
+    "index": 8
+  },
+  "https://doi.org/10.1145/1238844.1238855": {
+    "title": "Andrew P. Black, Norman C. Hutchinson, Eric Jul, Henry M. Levy: The development of the Emerald programming language. 1-51",
+    "address": "https://doi.org/10.1145/1238844.1238855",
+    "index": 9
+  },
+  "https://doi.org/10.1145/1238844.1238856": {
+    "title": "Paul Hudak, John Hughes, Simon L. Peyton Jones, Philip Wadler: A history of Haskell: being lazy with class. 1-55",
+    "address": "https://doi.org/10.1145/1238844.1238856",
+    "index": 10
+  },
+  "https://doi.org/10.1145/154766": {
+    "title": "John A. N. Lee, Jean E. Sammet: History of Programming Languages Conference (HOPL-II), Preprints, Cambridge, Massachusetts, USA, April 20-23, 1993. ACM 1993, ISBN 0-89791-570-4",
+    "address": "https://doi.org/10.1145/154766",
+    "index": 11
+  },
+  "https://doi.org/10.1145/154766.155361": {
+    "title": "Per Brinch Hansen: Monitors and Concurrent Pascal: A Personal History. 1-35",
+    "address": "https://doi.org/10.1145/154766.155361",
+    "index": 12
+  },
+  "https://doi.org/10.1145/154766.155362": {
+    "title": "Alain Colmerauer, Philippe Roussel: The Birth of Prolog. 37-52",
+    "address": "https://doi.org/10.1145/154766.155362",
+    "index": 13
+  },
+  "https://doi.org/10.1145/154766.155363": {
+    "title": "Ralph E. Griswold, Madge T. Griswold: History of the Icon Programming Language. 53-68",
+    "address": "https://doi.org/10.1145/154766.155363",
+    "index": 14
+  },
+  "https://doi.org/10.1145/154766.155364": {
+    "title": "Alan C. Kay: The Early History of Smalltalk. 69-95",
+    "address": "https://doi.org/10.1145/154766.155364",
+    "index": 15
+  },
+  "https://doi.org/10.1145/154766.155365": {
+    "title": "C. H. Lindsey: A History of ALGOL 68. 97-132",
+    "address": "https://doi.org/10.1145/154766.155365",
+    "index": 16
+  },
+  "https://doi.org/10.1145/154766.155367": {
+    "title": "Barbara Liskov: A History of CLU. 133-147",
+    "address": "https://doi.org/10.1145/154766.155367",
+    "index": 17
+  },
+  "https://doi.org/10.1145/154766.155369": {
+    "title": "Elizabeth D. Rather, Donald R. Colburn, Charles H. Moore: The Evolution of Forth. 177-199",
+    "address": "https://doi.org/10.1145/154766.155369",
+    "index": 18
+  },
+  "https://doi.org/10.1145/154766.155580": {
+    "title": "Dennis Ritchie: The Development of the C Language. 201-208",
+    "address": "https://doi.org/10.1145/154766.155580",
+    "index": 19
+  },
+  "https://doi.org/10.1145/154766.155372": {
+    "title": "Jean E. Sammet: The Beginning and Development of FORMAC (FORmula MAnipulation Compiler). 209-230",
+    "address": "https://doi.org/10.1145/154766.155372",
+    "index": 20
+  },
+  "https://doi.org/10.1145/154766.155373": {
+    "title": "Guy L. Steele Jr., Richard P. Gabriel: The Evolution of Lisp. 231-270",
+    "address": "https://doi.org/10.1145/154766.155373",
+    "index": 21
+  },
+  "https://doi.org/10.1145/154766.155375": {
+    "title": "Bjarne Stroustrup: A History of C++: 1979-1991. 271-297",
+    "address": "https://doi.org/10.1145/154766.155375",
+    "index": 22
+  },
+  "https://doi.org/10.1145/154766.155376": {
+    "title": "Williaam A. Whitaker: Ada - The Project: The DoD High Order Language Working Group. 299-331",
+    "address": "https://doi.org/10.1145/154766.155376",
+    "index": 23
+  },
+  "https://doi.org/10.1145/154766.155378": {
+    "title": "Niklaus Wirth: Recollections about the Development of Pascal. 333-342",
+    "address": "https://doi.org/10.1145/154766.155378",
+    "index": 24
+  },
+  "https://doi.org/10.1145/800025": {
+    "title": "Richard L. Wexelblat: History of Programming Languages, from the ACM SIGPLAN History of Programming Languages Conference, June 1-3, 1978, Los Angeles, California, USA. Academic Press / ACM 1981, ISBN 0-12-745040-8",
+    "address": "https://doi.org/10.1145/800025",
+    "index": 25
+  },
+  "https://doi.org/10.1145/800025.1198345": {
+    "title": "John Backus: The history of Fortran I, II, and III. 25-74",
+    "address": "https://doi.org/10.1145/800025.1198345",
+    "index": 26
+  },
+  "https://doi.org/10.1145/800025.1198352": {
+    "title": "Alan J. Perlis: The American side of the development of ALGOL. 75-91",
+    "address": "https://doi.org/10.1145/800025.1198352",
+    "index": 27
+  },
+  "https://doi.org/10.1145/800025.1198353": {
+    "title": "Peter Naur: The European side of the last phase of the development of ALGOL 60. 92-139",
+    "address": "https://doi.org/10.1145/800025.1198353",
+    "index": 28
+  },
+  "https://doi.org/10.1145/800025.1198360": {
+    "title": "John McCarthy: History of LISP. 173-185",
+    "address": "https://doi.org/10.1145/800025.1198360",
+    "index": 29
+  },
+  "https://doi.org/10.1145/800025.1198367": {
+    "title": "Jean E. Sammet: The early history of COBOL. 199-243",
+    "address": "https://doi.org/10.1145/800025.1198367",
+    "index": 30
+  },
+  "https://doi.org/10.1145/800025.1198374": {
+    "title": "Douglas T. Ross: Origins of the APT language for automatically programmed tools. 279-338",
+    "address": "https://doi.org/10.1145/800025.1198374",
+    "index": 31
+  },
+  "https://doi.org/10.1145/800025.1198380": {
+    "title": "Jules I. Schwartz: The development of JOVIAL. 369-388",
+    "address": "https://doi.org/10.1145/800025.1198380",
+    "index": 32
+  },
+  "https://doi.org/10.1145/800025.1198386": {
+    "title": "Geoffrey Gordon: The development of the General Purpose Simulation System (GPSS). 403-426",
+    "address": "https://doi.org/10.1145/800025.1198386",
+    "index": 33
+  },
+  "https://doi.org/10.1145/800025.1198392": {
+    "title": "Kristen Nygaard, Ole-Johan Dahl: The development of the SIMULA languages. 439-480",
+    "address": "https://doi.org/10.1145/800025.1198392",
+    "index": 34
+  },
+  "https://doi.org/10.1145/800025.1198400": {
+    "title": "Charles L. Baker: JOSS: JOHNNIAC open-shop system. 495-508",
+    "address": "https://doi.org/10.1145/800025.1198400",
+    "index": 35
+  },
+  "https://doi.org/10.1145/800025.1198404": {
+    "title": "Thomas E. Kurtz: BASIC. 515-537",
+    "address": "https://doi.org/10.1145/800025.1198404",
+    "index": 36
+  },
+  "https://doi.org/10.1145/800025.1198410": {
+    "title": "George Radin: The early history and characteristics of PL/I. 551-575",
+    "address": "https://doi.org/10.1145/800025.1198410",
+    "index": 37
+  },
+  "https://doi.org/10.1145/800025.1198417": {
+    "title": "Ralph E. Griswold: A history of the SNOBOL programming languages. 601-645",
+    "address": "https://doi.org/10.1145/800025.1198417",
+    "index": 38
+  },
+  "https://doi.org/10.1145/800025.1198423": {
+    "title": "Adin D. Falkoff, Kenneth E. Iverson: The evolution of APL. 661-674",
+    "address": "https://doi.org/10.1145/800025.1198423",
+    "index": 39
+  },
+  "https://doi.org/10.1145/3371080": {
+    "title": "Zheng Guo, Michael James, David Justo, Jiaxiao Zhou, Ziteng Wang, Ranjit Jhala, Nadia Polikarpova: Program synthesis by type-guided abstraction refinement. 12:1-12:28",
+    "address": "https://doi.org/10.1145/3371080",
+    "index": 40
+  },
+  "https://doi.org/10.1145/3371082": {
+    "title": "Sung Kook Kim, Arnaud J. Venet, Aditya V. Thakur: Deterministic parallel fixpoint computation. 14:1-14:33",
+    "address": "https://doi.org/10.1145/3371082",
+    "index": 41
+  },
+  "https://doi.org/10.1145/3371091": {
+    "title": "Youngju Song, Minki Cho, Dongjoo Kim, Yonghyun Kim, Jeehoon Kang, Chung-Kil Hur: CompCertM: CompCert with C-assembly linking and lightweight modular verification. 23:1-23:31",
+    "address": "https://doi.org/10.1145/3371091",
+    "index": 42
+  },
+  "https://doi.org/10.1145/3371096": {
+    "title": "Roberto Bruni, Roberto Giacobazzi, Roberta Gori, Isabel Garcia-Contreras, Dusko Pavlovic: Abstract extensionality: on the properties of incomplete abstract interpretations. 28:1-28:28",
+    "address": "https://doi.org/10.1145/3371096",
+    "index": 43
+  },
+  "https://doi.org/10.1145/3371097": {
+    "title": "Zeina Migeed, Jens Palsberg: What is decidable about gradual types? 29:1-29:29",
+    "address": "https://doi.org/10.1145/3371097",
+    "index": 44
+  },
+  "https://doi.org/10.1145/3371098": {
+    "title": "David Binder, Julian Jabs, Ingo Skupin, Klaus Ostermann: Decomposition diversity with symmetric data and codata. 30:1-30:28",
+    "address": "https://doi.org/10.1145/3371098",
+    "index": 45
+  },
+  "https://doi.org/10.1145/3371106": {
+    "title": "Martín Abadi, Gordon D. Plotkin: A simple differentiable programming language. 38:1-38:28",
+    "address": "https://doi.org/10.1145/3371106",
+    "index": 46
+  },
+  "https://doi.org/10.1145/3371108": {
+    "title": "Mark P. Jones, J. Garrett Morris, Richard A. Eisenberg: Partial type constructors: or, making ad hoc datatypes less ad hoc. 40:1-40:28",
+    "address": "https://doi.org/10.1145/3371108",
+    "index": 47
+  },
+  "https://doi.org/10.1145/3371116": {
+    "title": "Dariusz Biernacki, Maciej Piróg, Piotr Polesiuk, Filip Sieczkowski: Binders by day, labels by night: effect instances via lexically scoped handlers. 48:1-48:29",
+    "address": "https://doi.org/10.1145/3371116",
+    "index": 48
+  },
+  "https://doi.org/10.1145/3371120": {
+    "title": "Malavika Samak, Deokhwan Kim, Martin C. Rinard: Synthesizing replacement classes. 52:1-52:33",
+    "address": "https://doi.org/10.1145/3371120",
+    "index": 49
+  },
+  "https://doi.org/10.1145/3371121": {
+    "title": "Ningning Xie, Richard A. Eisenberg, Bruno C. d. S. Oliveira: Kind inference for datatypes. 53:1-53:28",
+    "address": "https://doi.org/10.1145/3371121",
+    "index": 50
+  },
+  "https://doi.org/10.1145/3371125": {
+    "title": "Fredrik Dahlqvist, Dexter Kozen: Semantics of higher-order probabilistic programs with conditioning. 57:1-57:29",
+    "address": "https://doi.org/10.1145/3371125",
+    "index": 51
+  },
+  "https://doi.org/10.1145/3386319": {
+    "title": "Roger K. W. Hui, Morten Kromberg: APL since 1978. 69:1-69:108",
+    "address": "https://doi.org/10.1145/3386319",
+    "index": 52
+  },
+  "https://doi.org/10.1145/3386320": {
+    "title": "Bjarne Stroustrup: Thriving in a crowded and changing world: C++ 2006-2020. 70:1-70:168",
+    "address": "https://doi.org/10.1145/3386320",
+    "index": 53
+  },
+  "https://doi.org/10.1145/3386321": {
+    "title": "Rich Hickey: A history of Clojure. 71:1-71:46",
+    "address": "https://doi.org/10.1145/3386321",
+    "index": 54
+  },
+  "https://doi.org/10.1145/3386323": {
+    "title": "Walter Bright, Andrei Alexandrescu, Michael Parker: Origins of the D programming language. 73:1-73:38",
+    "address": "https://doi.org/10.1145/3386323",
+    "index": 55
+  },
+  "https://doi.org/10.1145/3386324": {
+    "title": "Stefan Monnier, Michael Sperber: Evolution of Emacs Lisp. 74:1-74:55",
+    "address": "https://doi.org/10.1145/3386324",
+    "index": 56
+  },
+  "https://doi.org/10.1145/3386325": {
+    "title": "Don Syme: The early history of F#. 75:1-75:58",
+    "address": "https://doi.org/10.1145/3386325",
+    "index": 57
+  },
+  "https://doi.org/10.1145/3386326": {
+    "title": "Paul King: A history of the Groovy programming language. 76:1-76:53",
+    "address": "https://doi.org/10.1145/3386326",
+    "index": 58
+  },
+  "https://doi.org/10.1145/3386327": {
+    "title": "Allen Wirfs-Brock, Brendan Eich: JavaScript: the first 20 years. 77:1-77:189",
+    "address": "https://doi.org/10.1145/3386327",
+    "index": 59
+  },
+  "https://doi.org/10.1145/3386329": {
+    "title": "Cynthia Solomon, Brian Harvey, Ken Kahn, Henry Lieberman, Mark L. Miller, Margaret Minsky, Artemis Papert, Brian Silverman: History of Logo. 79:1-79:66",
+    "address": "https://doi.org/10.1145/3386329",
+    "index": 60
+  },
+  "https://doi.org/10.1145/3386331": {
+    "title": "Cleve Moler, Jack Little: A history of MATLAB. 81:1-81:67",
+    "address": "https://doi.org/10.1145/3386331",
+    "index": 61
+  },
+  "https://doi.org/10.1145/3386332": {
+    "title": "Brad J. Cox, Steve Naroff, Hansen Hsu: The origins of Objective-C at PPI/Stepstone and its evolution at NeXT. 82:1-82:74",
+    "address": "https://doi.org/10.1145/3386332",
+    "index": 62
+  },
+  "https://doi.org/10.1145/3386333": {
+    "title": "Peter Van Roy, Seif Haridi, Christian Schulte, Gert Smolka: A history of the Oz multiparadigm language. 83:1-83:56",
+    "address": "https://doi.org/10.1145/3386333",
+    "index": 63
+  },
+  "https://doi.org/10.1145/3386335": {
+    "title": "Daniel Ingalls: The evolution of Smalltalk: from Smalltalk-72 through Squeak. 85:1-85:101",
+    "address": "https://doi.org/10.1145/3386335",
+    "index": 64
+  },
+  "https://doi.org/10.1145/3386336": {
+    "title": "David MacQueen, Robert Harper, John H. Reppy: The history of Standard ML. 86:1-86:100",
+    "address": "https://doi.org/10.1145/3386336",
+    "index": 65
+  },
+  "https://doi.org/10.1145/3386337": {
+    "title": "Peter Flake, Phil Moorby, Steve Golson, Arturo Salz, Simon J. Davidmann: Verilog HDL and its ancestors and descendants. 87:1-87:90",
+    "address": "https://doi.org/10.1145/3386337",
+    "index": 66
+  },
+  "https://doi.org/10.1145/3408977": {
+    "title": "Nick Rioux, Steve Zdancewic: Computation focusing. 95:1-95:27",
+    "address": "https://doi.org/10.1145/3408977",
+    "index": 67
+  },
+  "https://doi.org/10.1145/3408980": {
+    "title": "Nándor Licker, Timothy M. Jones: Duplo: a framework for OCaml post-link optimisation. 98:1-98:29",
+    "address": "https://doi.org/10.1145/3408980",
+    "index": 68
+  },
+  "https://doi.org/10.1145/3408983": {
+    "title": "András Kovács: Elaboration with first-class implicit function types. 101:1-101:29",
+    "address": "https://doi.org/10.1145/3408983",
+    "index": 69
+  },
+  "https://doi.org/10.1145/3408985": {
+    "title": "Gabriel Radanne, Hannes Saffrich, Peter Thiemann: Kindly bent to free us. 103:1-103:29",
+    "address": "https://doi.org/10.1145/3408985",
+    "index": 70
+  },
+  "https://doi.org/10.1145/3408986": {
+    "title": "Paul Downen, Zena M. Ariola, Simon Peyton Jones, Richard A. Eisenberg: Kinds are calling conventions. 104:1-104:29",
+    "address": "https://doi.org/10.1145/3408986",
+    "index": 71
+  },
+  "https://doi.org/10.1145/3408994": {
+    "title": "Timothée Haudebourg, Thomas Genet, Thomas P. Jensen: Regular language type inference with term rewriting. 112:1-112:29",
+    "address": "https://doi.org/10.1145/3408994",
+    "index": 72
+  },
+  "https://doi.org/10.1145/3408999": {
+    "title": "Taro Sekiyama, Takeshi Tsukada, Atsushi Igarashi: Signature restriction for polymorphic algebraic effects. 117:1-117:30",
+    "address": "https://doi.org/10.1145/3408999",
+    "index": 73
+  },
+  "https://doi.org/10.1145/3409004": {
+    "title": "Aaron Stump, Christopher Jenkins, Stephan Spahn, Colin McDonald: Strong functional pearl: Harper's regular-expression matcher in Cedille. 122:1-122:25",
+    "address": "https://doi.org/10.1145/3409004",
+    "index": 74
+  },
+  "https://doi.org/10.1145/3409006": {
+    "title": "Lionel Parreaux: The simple essence of algebraic subtyping: principal type inference with subtyping made easy (functional pearl). 124:1-124:28",
+    "address": "https://doi.org/10.1145/3409006",
+    "index": 75
+  },
+  "https://doi.org/10.1145/3428194": {
+    "title": "Jonathan Immanuel Brachthäuser, Philipp Schuster, Klaus Ostermann: Effects as capabilities: effect handlers and lightweight effect polymorphism. 126:1-126:30",
+    "address": "https://doi.org/10.1145/3428194",
+    "index": 76
+  },
+  "https://doi.org/10.1145/3428205": {
+    "title": "Yu Wang, Ke Wang, Fengjuan Gao, Linzhang Wang: Learning semantic program embeddings with graph interval neural network. 137:1-137:27",
+    "address": "https://doi.org/10.1145/3428205",
+    "index": 77
+  },
+  "https://doi.org/10.1145/3428213": {
+    "title": "Sean Bartell, Will Dietz, Vikram S. Adve: Guided linking: dynamic linking without the costs. 145:1-145:29",
+    "address": "https://doi.org/10.1145/3428213",
+    "index": 78
+  },
+  "https://doi.org/10.1145/3428222": {
+    "title": "Magnus Madsen, Jaco van de Pol: Polymorphic types and effects with Boolean unification. 154:1-154:29",
+    "address": "https://doi.org/10.1145/3428222",
+    "index": 79
+  },
+  "https://doi.org/10.1145/3428237": {
+    "title": "Sarah Spall, Neil Mitchell, Sam Tobin-Hochstadt: Build scripts with perfect dependencies. 169:1-169:28",
+    "address": "https://doi.org/10.1145/3428237",
+    "index": 80
+  },
+  "https://doi.org/10.1145/3428249": {
+    "title": "Alexi Turcotte, Aviral Goel, Filip Krikava, Jan Vitek: Designing types for R, empirically. 181:1-181:25",
+    "address": "https://doi.org/10.1145/3428249",
+    "index": 81
+  },
+  "https://doi.org/10.1145/3428251": {
+    "title": "Lingkun Kong, Konstantinos Mamouras: StreamQL: a query language for processing streaming time series. 183:1-183:32",
+    "address": "https://doi.org/10.1145/3428251",
+    "index": 82
+  },
+  "https://doi.org/10.1145/3428268": {
+    "title": "Eric Atkinson, Michael Carbin: Programming and reasoning with partial observability. 200:1-200:28",
+    "address": "https://doi.org/10.1145/3428268",
+    "index": 83
+  },
+  "https://doi.org/10.1145/3428274": {
+    "title": "Koar Marntirosian, Tom Schrijvers, Bruno C. d. S. Oliveira, Georgios Karachalias: Resolution as intersection subtyping via Modus Ponens. 206:1-206:30",
+    "address": "https://doi.org/10.1145/3428274",
+    "index": 84
+  },
+  "https://doi.org/10.1145/3428276": {
+    "title": "Ifaz Kabir, Yufeng Li, Ondrej Lhoták: ιDOT: a DOT calculus with object initialization. 208:1-208:28",
+    "address": "https://doi.org/10.1145/3428276",
+    "index": 85
+  },
+  "https://doi.org/10.1145/3428277": {
+    "title": "Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez-Núñez, Albert Rubio, Mooly Sagiv: Taming callbacks for smart contract modularity. 209:1-209:30",
+    "address": "https://doi.org/10.1145/3428277",
+    "index": 86
+  },
+  "https://doi.org/10.1145/3428280": {
+    "title": "Sumit Gulwani, Vu Le, Arjun Radhakrishna, Ivan Radicek, Mohammad Raza: Structure interpretation of text formats. 212:1-212:29",
+    "address": "https://doi.org/10.1145/3428280",
+    "index": 87
+  },
+  "https://doi.org/10.1145/3428284": {
+    "title": "Yiyun Liu, James Parker, Patrick Redmond, Lindsey Kuper, Michael Hicks, Niki Vazou: Verifying replicated data types with typeclass refinements in Liquid Haskell. 216:1-216:30",
+    "address": "https://doi.org/10.1145/3428284",
+    "index": 88
+  },
+  "https://doi.org/10.1145/3428291": {
+    "title": "Yaoda Zhou, Bruno C. d. S. Oliveira, Jinxu Zhao: Revisiting iso-recursive subtyping. 223:1-223:28",
+    "address": "https://doi.org/10.1145/3428291",
+    "index": 89
+  },
+  "https://doi.org/10.1145/3428297": {
+    "title": "Michael Ballantyne, Alexis King, Matthias Felleisen: Macros for domain-specific languages. 229:1-229:29",
+    "address": "https://doi.org/10.1145/3428297",
+    "index": 90
+  },
+  "https://doi.org/10.1145/3441296": {
+    "title": "Sam Lindley, Torben Æ. Mogensen: Proceedings of the 2021 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM@POPL 2021, Virtual Event, Denmark, January 18-19, 2021. ACM 2021, ISBN 978-1-4503-8305-9",
+    "address": "https://doi.org/10.1145/3441296",
+    "index": 91
+  },
+  "https://doi.org/10.1145/3372884.3373160": {
+    "title": "Yuhi Sato, Yukiyoshi Kameyama, Takahisa Watanabe: Module generation without regret. 1-13",
+    "address": "https://doi.org/10.1145/3372884.3373160",
+    "index": 92
+  },
+  "https://doi.org/10.1145/3372884.3373161": {
+    "title": "Zechen Hou, Eric Madelaine: Symbolic bisimulation for open and parameterized systems. 14-26",
+    "address": "https://doi.org/10.1145/3372884.3373161",
+    "index": 93
+  },
+  "https://doi.org/10.1145/3372884.3373162": {
+    "title": "Rodin T. A. Aarssen, Tijs van der Storm: High-fidelity metaprogramming with separator syntax trees. 27-37",
+    "address": "https://doi.org/10.1145/3372884.3373162",
+    "index": 94
+  },
+  "https://doi.org/10.1145/3372884.3373159": {
+    "title": "Jacques Carette, Brooks MacLachlan, Spencer Smith: GOOL: a generic object-oriented language. 45-51",
+    "address": "https://doi.org/10.1145/3372884.3373159",
+    "index": 95
+  },
+  "https://doi.org/10.1145/3294032.3294080": {
+    "title": "Tamino Dauth, Martin Sulzmann: Futures and promises in Haskell and Scala. 68-74",
+    "address": "https://doi.org/10.1145/3294032.3294080",
+    "index": 96
+  },
+  "https://doi.org/10.1145/3162068": {
+    "title": "David Broman, Jeremy G. Siek: Gradually typed symbolic expressions. 15-29",
+    "address": "https://doi.org/10.1145/3162068",
+    "index": 97
+  },
+  "https://doi.org/10.1145/3162066": {
+    "title": "Ben Greenman, Zeina Migeed: On the cost of type-tag soundness. 30-39",
+    "address": "https://doi.org/10.1145/3162066",
+    "index": 98
+  },
+  "https://doi.org/10.1145/3162072": {
+    "title": "Takahisa Watanabe, Yukiyoshi Kameyama: Program generation for ML modules (short paper). 60-66",
+    "address": "https://doi.org/10.1145/3162072",
+    "index": 99
+  },
+  "https://doi.org/10.1145/3009837.3009923": {
+    "title": "Stephanie Weirich: The influence of dependent types (keynote). 1",
+    "address": "https://doi.org/10.1145/3009837.3009923",
+    "index": 100
+  },
+  "https://doi.org/10.1145/3009837.3011999": {
+    "title": "Aaron Turon: Rust: from POPL to practice (keynote). 2",
+    "address": "https://doi.org/10.1145/3009837.3011999",
+    "index": 101
+  },
+  "https://doi.org/10.1145/3009837.3009882": {
+    "title": "Stephen Dolan, Alan Mycroft: Polymorphism, subtyping, and type inference in MLsub. 60-72",
+    "address": "https://doi.org/10.1145/3009837.3009882",
+    "index": 102
+  },
+  "https://doi.org/10.1145/3009837.3009871": {
+    "title": "Radu Grigore: Java generics are turing complete. 73-85",
+    "address": "https://doi.org/10.1145/3009837.3009871",
+    "index": 103
+  },
+  "https://doi.org/10.1145/3009837.3009892": {
+    "title": "Karl Crary: Modules, abstraction, and parametric polymorphism. 100-113",
+    "address": "https://doi.org/10.1145/3009837.3009892",
+    "index": 104
+  },
+  "https://doi.org/10.1145/3009837.3009853": {
+    "title": "Matt Brown, Jens Palsberg: Typed self-evaluation via intensional type functions. 415-428",
+    "address": "https://doi.org/10.1145/3009837.3009853",
+    "index": 105
+  },
+  "https://doi.org/10.1145/3009837.3009897": {
+    "title": "Sam Lindley, Conor McBride, Craig McLaughlin: Do be do be do. 500-514",
+    "address": "https://doi.org/10.1145/3009837.3009897",
+    "index": 106
+  },
+  "https://doi.org/10.1145/3009837.3009876": {
+    "title": "Eryk Kopczynski, Szymon Torunczyk: LOIS: syntax and semantics. 586-598",
+    "address": "https://doi.org/10.1145/3009837.3009876",
+    "index": 107
+  },
+  "https://doi.org/10.1145/3009837.3009886": {
+    "title": "Stephen Chang, Alex Knauth, Ben Greenman: Type systems as macros. 694-705",
+    "address": "https://doi.org/10.1145/3009837.3009886",
+    "index": 108
+  },
+  "https://doi.org/10.1145/3009837.3009867": {
+    "title": "Nada Amin, Tiark Rompf: LMS-Verify: abstraction without regret for verified systems programming. 859-873",
+    "address": "https://doi.org/10.1145/3009837.3009867",
+    "index": 109
+  },
+  "https://doi.org/10.1145/3018882.3018884": {
+    "title": "Alejandro Serrano, Jurriaan Hage: Lightweight soundness for towers of language extensions. 23-34",
+    "address": "https://doi.org/10.1145/3018882.3018884",
+    "index": 110
+  },
+  "https://doi.org/10.1145/3018882.3018887": {
+    "title": "Ivo Gabe de Wolff, Jurriaan Hage: Refining types using type guards in TypeScript. 111-122",
+    "address": "https://doi.org/10.1145/3018882.3018887",
+    "index": 111
+  },
+  "https://doi.org/10.1145/2837614.2843895": {
+    "title": "Kathryn S. McKinley: Programming the world of uncertain things (keynote). 1-2",
+    "address": "https://doi.org/10.1145/2837614.2843895",
+    "index": 112
+  },
+  "https://doi.org/10.1145/2837614.2843896": {
+    "title": "David Walker: Confluences in programming languages research (keynote). 4",
+    "address": "https://doi.org/10.1145/2837614.2843896",
+    "index": 113
+  },
+  "https://doi.org/10.1145/2837614.2837644": {
+    "title": "Florian Lorenzen, Sebastian Erdweg: Sound type-dependent syntactic language extension. 204-216",
+    "address": "https://doi.org/10.1145/2837614.2837644",
+    "index": 114
+  },
+  "https://doi.org/10.1145/2837614.2837655": {
+    "title": "Nikhil Swamy, Catalin Hritcu, Chantal Keller, Aseem Rastogi, Antoine Delignat-Lavaud, Simon Forest, Karthikeyan Bhargavan, Cédric Fournet, Pierre-Yves Strub, Markulf Kohlweiss, Jean Karim Zinzindohoue, Santiago Zanella Béguelin: Dependent types and multi-monadic effects in F. 256-270",
+    "address": "https://doi.org/10.1145/2837614.2837655",
+    "index": 115
+  },
+  "https://doi.org/10.1145/2837614.2837665": {
+    "title": "Sheng Chen, Martin Erwig: Principal type inference for GADTs. 416-428",
+    "address": "https://doi.org/10.1145/2837614.2837665",
+    "index": 116
+  },
+  "https://doi.org/10.1145/2837614.2837670": {
+    "title": "Ronald Garcia, Alison M. Clark, Éric Tanter: Abstracting gradual typing. 429-442",
+    "address": "https://doi.org/10.1145/2837614.2837670",
+    "index": 117
+  },
+  "https://doi.org/10.1145/2837614.2837645": {
+    "title": "Michael Emmi, Constantin Enea: Symbolic abstract data type inference. 513-525",
+    "address": "https://doi.org/10.1145/2837614.2837645",
+    "index": 118
+  },
+  "https://doi.org/10.1145/2837614.2837620": {
+    "title": "Matthew Flatt: Binding as sets of scopes. 705-717",
+    "address": "https://doi.org/10.1145/2837614.2837620",
+    "index": 119
+  },
+  "https://doi.org/10.1145/2847538.2847539": {
+    "title": "Anastasia Izmaylova, Ali Afroozeh, Tijs van der Storm: Practical, general parser combinators. 1-12",
+    "address": "https://doi.org/10.1145/2847538.2847539",
+    "index": 120
+  },
+  "https://doi.org/10.1145/2847538.2847540": {
+    "title": "Ali Afroozeh, Anastasia Izmaylova: Operator precedence for data-dependent grammars. 13-24",
+    "address": "https://doi.org/10.1145/2847538.2847540",
+    "index": 121
+  },
+  "https://doi.org/10.1145/2847538.2847541": {
+    "title": "Shayan Najd, Sam Lindley, Josef Svenningsson, Philip Wadler: Everything old is new again: quoted domain-specific languages. 25-36",
+    "address": "https://doi.org/10.1145/2847538.2847541",
+    "index": 122
+  },
+  "https://doi.org/10.1145/2847538.2847542": {
+    "title": "Kenichi Suzuki, Oleg Kiselyov, Yukiyoshi Kameyama: Finally, safely-extensible and efficient language-integrated query. 37-48",
+    "address": "https://doi.org/10.1145/2847538.2847542",
+    "index": 123
+  },
+  "https://doi.org/10.1145/2676726.2676971": {
+    "title": "Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin M. Bierman, Panagiotis Vekris: Safe & Efficient Gradual Typing for TypeScript. 167-180",
+    "address": "https://doi.org/10.1145/2676726.2676971",
+    "index": 124
+  },
+  "https://doi.org/10.1145/2676726.2676991": {
+    "title": "Giuseppe Castagna, Kim Nguyen, Zhiwu Xu, Pietro Abate: Polymorphic Functions with Set-Theoretic Types: Part 2: Local Type Inference and Type Reconstruction. 289-302",
+    "address": "https://doi.org/10.1145/2676726.2676991",
+    "index": 125
+  },
+  "https://doi.org/10.1145/2676726.2676992": {
+    "title": "Ronald Garcia, Matteo Cimini: Principal Type Schemes for Gradual Programs. 303-315",
+    "address": "https://doi.org/10.1145/2676726.2676992",
+    "index": 126
+  },
+  "https://doi.org/10.1145/2676726.2676974": {
+    "title": "Vilhelm Sjöberg, Stephanie Weirich: Programming up to Congruence. 369-382",
+    "address": "https://doi.org/10.1145/2676726.2676974",
+    "index": 127
+  },
+  "https://doi.org/10.1145/2676726.2677013": {
+    "title": "Michael D. Adams: Towards the Essence of Hygiene. 457-469",
+    "address": "https://doi.org/10.1145/2676726.2677013",
+    "index": 128
+  },
+  "https://doi.org/10.1145/2676726.2676988": {
+    "title": "Matt Brown, Jens Palsberg: Self-Representation in Girard's System U. 471-484",
+    "address": "https://doi.org/10.1145/2676726.2676988",
+    "index": 129
+  },
+  "https://doi.org/10.1145/2676726.2682622": {
+    "title": "Peter Lee: Coding by Everyone, Every Day. 485",
+    "address": "https://doi.org/10.1145/2676726.2682622",
+    "index": 130
+  },
+  "https://doi.org/10.1145/2676726.2682620": {
+    "title": "Peter Buneman: Databases and Programming: Two Subjects Divided by a Common Language? 487",
+    "address": "https://doi.org/10.1145/2676726.2682620",
+    "index": 131
+  },
+  "https://doi.org/10.1145/2676726.2676975": {
+    "title": "Ronghui Gu, Jérémie Koenig, Tahina Ramananandro, Zhong Shao, Xiongnan (Newman) Wu, Shu-Chun Weng, Haozhong Zhang, Yu Guo: Deep Specifications and Certified Abstraction Layers. 595-608",
+    "address": "https://doi.org/10.1145/2676726.2676975",
+    "index": 132
+  },
+  "https://doi.org/10.1145/2676726.2677003": {
+    "title": "Adam Chlipala: From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification. 609-622",
+    "address": "https://doi.org/10.1145/2676726.2677003",
+    "index": 133
+  },
+  "https://doi.org/10.1145/2678015.2678016": {
+    "title": "Shriram Krishnamurthi: Desugaring in Practice: Opportunities and Challenges. 1-2",
+    "address": "https://doi.org/10.1145/2678015.2678016",
+    "index": 134
+  },
+  "https://doi.org/10.1145/2678015.2682545": {
+    "title": "Casper Bach Poulsen, Peter D. Mosses, Paolo Torrini: Imperative Polymorphism by Store-Based Types as Abstract Interpretations. 3-8",
+    "address": "https://doi.org/10.1145/2678015.2682545",
+    "index": 135
+  },
+  "https://doi.org/10.1145/2535838.2537849": {
+    "title": "Lars Birkedal: Modular reasoning about concurrent higher-order imperative programs. 1-2",
+    "address": "https://doi.org/10.1145/2535838.2537849",
+    "index": 136
+  },
+  "https://doi.org/10.1145/2535838.2535840": {
+    "title": "Giuseppe Castagna, Kim Nguyen, Zhiwu Xu, Hyeonseung Im, Sergueï Lenglet, Luca Padovani: Polymorphic functions with set-theoretic types: part 1: syntax, semantics, and evaluation. 5-18",
+    "address": "https://doi.org/10.1145/2535838.2535840",
+    "index": 137
+  },
+  "https://doi.org/10.1145/2535838.2535884": {
+    "title": "Scott Kilpatrick, Derek Dreyer, Simon L. Peyton Jones, Simon Marlow: Backpack: retrofitting Haskell with interfaces. 19-32",
+    "address": "https://doi.org/10.1145/2535838.2535884",
+    "index": 138
+  },
+  "https://doi.org/10.1145/2535838.2535876": {
+    "title": "Martin Bodin, Arthur Charguéraud, Daniele Filaretti, Philippa Gardner, Sergio Maffeis, Daiva Naudziuniene, Alan Schmitt, Gareth Smith: A trusted mechanised JavaScript specification. 87-100",
+    "address": "https://doi.org/10.1145/2535838.2535876",
+    "index": 139
+  },
+  "https://doi.org/10.1145/2535838.2537848": {
+    "title": "Gérard P. Huet, Hugo Herbelin: 30 years of research and development around Coq. 249-250",
+    "address": "https://doi.org/10.1145/2535838.2537848",
+    "index": 140
+  },
+  "https://doi.org/10.1145/2535838.2537851": {
+    "title": "Stephen Brookes, Peter W. O'Hearn, Uday S. Reddy: The essence of Reynolds. 251-256",
+    "address": "https://doi.org/10.1145/2535838.2537851",
+    "index": 141
+  },
+  "https://doi.org/10.1145/2535838.2535882": {
+    "title": "Nathan Chong, Alastair F. Donaldson, Jeroen Ketema: A sound and complete abstraction for reasoning about parallel prefix sums. 397-410",
+    "address": "https://doi.org/10.1145/2535838.2535882",
+    "index": 142
+  },
+  "https://doi.org/10.1145/2535838.2535889": {
+    "title": "Nikhil Swamy, Cédric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin M. Bierman: Gradual typing embedded securely in JavaScript. 425-438",
+    "address": "https://doi.org/10.1145/2535838.2535889",
+    "index": 143
+  },
+  "https://doi.org/10.1145/2535838.2535856": {
+    "title": "Richard A. Eisenberg, Dimitrios Vytiniotis, Simon L. Peyton Jones, Stephanie Weirich: Closed type families with overlapping equations. 671-684",
+    "address": "https://doi.org/10.1145/2535838.2535856",
+    "index": 144
+  },
+  "https://doi.org/10.1145/2543728.2543739": {
+    "title": "Weiyu Miao, Jeremy G. Siek: Compile-time reflection and metaprogramming for Java. 27-38",
+    "address": "https://doi.org/10.1145/2543728.2543739",
+    "index": 145
+  },
+  "https://doi.org/10.1145/2543728.2543734": {
+    "title": "Sean Leather, Johan Jeuring, Andres Löh, Bram Schuur: Type-changing rewriting and semantics-preserving transformation. 109-120",
+    "address": "https://doi.org/10.1145/2543728.2543734",
+    "index": 146
+  },
+  "https://doi.org/10.1145/2541568.2541569": {
+    "title": "Ranjit Jhala: Refinement types for Haskell. 27-28",
+    "address": "https://doi.org/10.1145/2541568.2541569",
+    "index": 147
+  },
+  "https://doi.org/10.1145/2429069.2429090": {
+    "title": "Ugo Dal Lago, Barbara Petit: The geometry of types. 167-178",
+    "address": "https://doi.org/10.1145/2429069.2429090",
+    "index": 148
+  },
+  "https://doi.org/10.1145/2429069.2429091": {
+    "title": "Sam Staton, Paul Blain Levy: Universal properties of impure programming languages. 179-192",
+    "address": "https://doi.org/10.1145/2429069.2429091",
+    "index": 149
+  },
+  "https://doi.org/10.1145/2429069.2429094": {
+    "title": "Benjamin Delaware, Bruno C. d. S. Oliveira, Tom Schrijvers: Meta-theory à la carte. 207-218",
+    "address": "https://doi.org/10.1145/2429069.2429094",
+    "index": 150
+  },
+  "https://doi.org/10.1145/2429069.2429097": {
+    "title": "Shriram Krishnamurthi: From principles to programming languages (and back). 233-234",
+    "address": "https://doi.org/10.1145/2429069.2429097",
+    "index": 151
+  },
+  "https://doi.org/10.1145/2429069.2429099": {
+    "title": "Mark Batty, Mike Dodds, Alexey Gotsman: Library abstraction for C/C++ concurrency. 235-248",
+    "address": "https://doi.org/10.1145/2429069.2429099",
+    "index": 152
+  },
+  "https://doi.org/10.1145/2429069.2429107": {
+    "title": "Andrew C. Myers: How languages can save distributed computing. 315-316",
+    "address": "https://doi.org/10.1145/2429069.2429107",
+    "index": 153
+  },
+  "https://doi.org/10.1145/2429069.2429114": {
+    "title": "Cédric Fournet, Nikhil Swamy, Juan Chen, Pierre-Évariste Dagand, Pierre-Yves Strub, Benjamin Livshits: Fully abstract compilation to JavaScript. 371-384",
+    "address": "https://doi.org/10.1145/2429069.2429114",
+    "index": 154
+  },
+  "https://doi.org/10.1145/2429069.2429131": {
+    "title": "Aquinas Hobor, Jules Villard: The ramifications of sharing in data structures. 523-536",
+    "address": "https://doi.org/10.1145/2429069.2429131",
+    "index": 155
+  },
+  "https://doi.org/10.1145/2426890.2426908": {
+    "title": "Bruno Martinez, Marcos Viera, Alberto Pardo: Just do it while compiling!: fast extensible records in haskell. 77-86",
+    "address": "https://doi.org/10.1145/2426890.2426908",
+    "index": 156
+  },
+  "https://doi.org/10.1145/2426890.2426909": {
+    "title": "Bruno C. d. S. Oliveira, Andres Löh: Abstract syntax graphs for domain specific languages. 87-96",
+    "address": "https://doi.org/10.1145/2426890.2426909",
+    "index": 157
+  },
+  "https://doi.org/10.1145/2426890.2426913": {
+    "title": "Marco Servetto, Elena Zucca: A meta-circular language for active libraries. 117-126",
+    "address": "https://doi.org/10.1145/2426890.2426913",
+    "index": 158
+  },
+  "https://doi.org/10.1145/2428116.2428118": {
+    "title": "Edwin C. Brady: Idris: general purpose programming with dependent types. 1-2",
+    "address": "https://doi.org/10.1145/2428116.2428118",
+    "index": 159
+  },
+  "https://doi.org/10.1145/2428116.2428121": {
+    "title": "Francisco Ferreira, Stefan Monnier, Brigitte Pientka: Compiling contextual objects: bringing higher-order abstract syntax to programmers. 13-24",
+    "address": "https://doi.org/10.1145/2428116.2428121",
+    "index": 160
+  },
+  "https://doi.org/10.1145/2430553.2430558": {
+    "title": "Arun Lakhotia, Mila Dalla Preda, Roberto Giacobazzi: Fast location of similar code fragments using semantic 'juice'. 5:1-5:6",
+    "address": "https://doi.org/10.1145/2430553.2430558",
+    "index": 161
+  },
+  "https://doi.org/10.1145/2103656.2103661": {
+    "title": "Stephan van Staden, Cristiano Calcagno, Bertrand Meyer: Freefinement. 7-18",
+    "address": "https://doi.org/10.1145/2103656.2103661",
+    "index": 162
+  },
+  "https://doi.org/10.1145/2103656.2103663": {
+    "title": "Philippa Gardner, Sergio Maffeis, Gareth David Smith: Towards a program logic for JavaScript. 31-44",
+    "address": "https://doi.org/10.1145/2103656.2103663",
+    "index": 163
+  },
+  "https://doi.org/10.1145/2103656.2103667": {
+    "title": "Roshan P. James, Amr Sabry: Information effects. 73-84",
+    "address": "https://doi.org/10.1145/2103656.2103667",
+    "index": 164
+  },
+  "https://doi.org/10.1145/2103656.2103699": {
+    "title": "Julien Cretin, Didier Rémy: On the power of coercion abstraction. 361-372",
+    "address": "https://doi.org/10.1145/2103656.2103699",
+    "index": 165
+  },
+  "https://doi.org/10.1145/2103656.2103704": {
+    "title": "Mikolaj Bojanczyk, Laurent Braud, Bartek Klin, Slawomir Lasota: Towards nominal computation. 401-412",
+    "address": "https://doi.org/10.1145/2103656.2103704",
+    "index": 166
+  },
+  "https://doi.org/10.1145/2103656.2103705": {
+    "title": "Andrew Cave, Brigitte Pientka: Programming with binders and indexed data-types. 413-424",
+    "address": "https://doi.org/10.1145/2103656.2103705",
+    "index": 167
+  },
+  "https://doi.org/10.1145/2103656.2103715": {
+    "title": "Martin Hofmann, Benjamin C. Pierce, Daniel Wagner: Edit lenses. 495-508",
+    "address": "https://doi.org/10.1145/2103656.2103715",
+    "index": 168
+  },
+  "https://doi.org/10.1145/2103656.2103718": {
+    "title": "Tahina Ramananandro, Gabriel Dos Reis, Xavier Leroy: A mechanized semantics for C++ object construction and destruction, with applications to resource management. 521-532",
+    "address": "https://doi.org/10.1145/2103656.2103718",
+    "index": 169
+  },
+  "https://doi.org/10.1145/2103656.2103719": {
+    "title": "Chucky Ellison, Grigore Rosu: An executable formal semantics of C with applications. 533-544",
+    "address": "https://doi.org/10.1145/2103656.2103719",
+    "index": 170
+  },
+  "https://doi.org/10.1145/1926385.1926390": {
+    "title": "Yannis Smaragdakis, Martin Bravenboer, Ondrej Lhoták: Pick your contexts well: understanding object-sensitivity. 17-30",
+    "address": "https://doi.org/10.1145/1926385.1926390",
+    "index": 171
+  },
+  "https://doi.org/10.1145/1926385.1926391": {
+    "title": "Percy Liang, Omer Tripp, Mayur Naik: Learning minimal abstractions. 31-42",
+    "address": "https://doi.org/10.1145/1926385.1926391",
+    "index": 172
+  },
+  "https://doi.org/10.1145/1926385.1926402": {
+    "title": "Chung-Kil Hur, Derek Dreyer: A kripke logical relation between ML and assembly. 133-146",
+    "address": "https://doi.org/10.1145/1926385.1926402",
+    "index": 173
+  },
+  "https://doi.org/10.1145/1926385.1926403": {
+    "title": "François Pottier: A typed store-passing translation for general references. 147-158",
+    "address": "https://doi.org/10.1145/1926385.1926403",
+    "index": 174
+  },
+  "https://doi.org/10.1145/1926385.1926406": {
+    "title": "Xavier Rival, Bor-Yuh Evan Chang: Calling context abstraction with shapes. 173-186",
+    "address": "https://doi.org/10.1145/1926385.1926406",
+    "index": 175
+  },
+  "https://doi.org/10.1145/1926385.1926409": {
+    "title": "Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, Philip Wadler: Blame for all. 201-214",
+    "address": "https://doi.org/10.1145/1926385.1926409",
+    "index": 176
+  },
+  "https://doi.org/10.1145/1926385.1926411": {
+    "title": "Stephanie Weirich, Dimitrios Vytiniotis, Simon L. Peyton Jones, Steve Zdancewic: Generative type abstraction and type-level computation. 227-240",
+    "address": "https://doi.org/10.1145/1926385.1926411",
+    "index": 177
+  },
+  "https://doi.org/10.1145/1926385.1926428": {
+    "title": "Martin Hofmann, Benjamin C. Pierce, Daniel Wagner: Symmetric lenses. 371-384",
+    "address": "https://doi.org/10.1145/1926385.1926428",
+    "index": 178
+  },
+  "https://doi.org/10.1145/1926385.1926433": {
+    "title": "Nishant Sinha, Chao Wang: On interference abstractions. 423-434",
+    "address": "https://doi.org/10.1145/1926385.1926433",
+    "index": 179
+  },
+  "https://doi.org/10.1145/1926385.1926437": {
+    "title": "Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, Michael Hicks: Dynamic inference of static types for ruby. 459-472",
+    "address": "https://doi.org/10.1145/1926385.1926437",
+    "index": 180
+  },
+  "https://doi.org/10.1145/1926385.1926439": {
+    "title": "Andrew D. Gordon, Robert Harper, John Harrison, Alan Jeffrey, Peter Sewell: Robin Milner 1934--2010: verification, languages, and concurrency. 473-474",
+    "address": "https://doi.org/10.1145/1926385.1926439",
+    "index": 181
+  },
+  "https://doi.org/10.1145/1929501.1929503": {
+    "title": "Olivier Danvy, Jacob Johannsen, Ian Zerny: A walk in the semantic park. 1-12",
+    "address": "https://doi.org/10.1145/1929501.1929503",
+    "index": 182
+  },
+  "https://doi.org/10.1145/1929501.1929518": {
+    "title": "Tim Bauer, Martin Erwig, Alan Fern, Jervis Pinto: Adaptation-based programming in java. 81-90",
+    "address": "https://doi.org/10.1145/1929501.1929518",
+    "index": 183
+  },
+  "https://doi.org/10.1145/1929501.1929524": {
+    "title": "Enrique Martin-Martin: Type classes in functional logic programming. 121-130",
+    "address": "https://doi.org/10.1145/1929501.1929524",
+    "index": 184
+  },
+  "https://doi.org/10.1145/1929553.1929557": {
+    "title": "Simon Winwood, Manuel M. T. Chakravarty: Singleton: a general-purpose dependently-typed assembly language. 3-14",
+    "address": "https://doi.org/10.1145/1929553.1929557",
+    "index": 185
+  },
+  "https://doi.org/10.1145/1706299.1706342": {
+    "title": "Jeremy G. Siek, Philip Wadler: Threesomes, with and without blame. 365-376",
+    "address": "https://doi.org/10.1145/1706299.1706342",
+    "index": 186
+  },
+  "https://doi.org/10.1145/1707790.1707792": {
+    "title": "Stefan Monnier, David Haguenauer: Singleton types here, singleton types there, singleton types everywhere. 1-8",
+    "address": "https://doi.org/10.1145/1707790.1707792",
+    "index": 187
+  },
+  "https://doi.org/10.1145/1480881.1480899": {
+    "title": "David Monniaux: Automatic modular abstractions for linear constraints. 140-151",
+    "address": "https://doi.org/10.1145/1480881.1480899",
+    "index": 188
+  },
+  "https://doi.org/10.1145/1480881.1480901": {
+    "title": "Chris Barker: Wild control operators. 152",
+    "address": "https://doi.org/10.1145/1480881.1480901",
+    "index": 189
+  },
+  "https://doi.org/10.1145/1480881.1480903": {
+    "title": "Ronald Garcia, Andrew Lumsdaine, Amr Sabry: Lazy evaluation and delimited control. 153-164",
+    "address": "https://doi.org/10.1145/1480881.1480903",
+    "index": 190
+  },
+  "https://doi.org/10.1145/1480881.1480926": {
+    "title": "Benoît Montagu, Didier Rémy: Modeling abstract types in modules with open existential types. 354-365",
+    "address": "https://doi.org/10.1145/1480881.1480926",
+    "index": 191
+  },
+  "https://doi.org/10.1145/1481848.1481849": {
+    "title": "Manuel Fähndrich: Language-agnostic specification and verification: invited talk. 1-2",
+    "address": "https://doi.org/10.1145/1481848.1481849",
+    "index": 192
+  },
+  "https://doi.org/10.1145/1481848.1481851": {
+    "title": "Daniel R. Licata, Robert Harper: Positively dependent types. 3-14",
+    "address": "https://doi.org/10.1145/1481848.1481851",
+    "index": 193
+  },
+  "https://doi.org/10.1145/1328438.1328443": {
+    "title": "Brian E. Aydemir, Arthur Charguéraud, Benjamin C. Pierce, Randy Pollack, Stephanie Weirich: Engineering formal metatheory. 3-15",
+    "address": "https://doi.org/10.1145/1328438.1328443",
+    "index": 194
+  },
+  "https://doi.org/10.1145/1328438.1328451": {
+    "title": "Matthew J. Parkinson, Gavin M. Bierman: Separation logic, abstraction and inheritance. 75-86",
+    "address": "https://doi.org/10.1145/1328438.1328451",
+    "index": 195
+  },
+  "https://doi.org/10.1145/1328438.1328468": {
+    "title": "Sumit Gulwani, Bill McCloskey, Ashish Tiwari: Lifting abstract interpreters to quantified logical domains. 235-246",
+    "address": "https://doi.org/10.1145/1328438.1328468",
+    "index": 196
+  },
+  "https://doi.org/10.1145/1328438.1328476": {
+    "title": "Umut A. Acar, Amal Ahmed, Matthias Blume: Imperative self-adjusting computation. 309-322",
+    "address": "https://doi.org/10.1145/1328438.1328476",
+    "index": 197
+  },
+  "https://doi.org/10.1145/1328438.1328480": {
+    "title": "Hamed Seiied Alavi, Seth Gilbert, Rachid Guerraoui: Extensible encoding of type hierarchies. 349-358",
+    "address": "https://doi.org/10.1145/1328438.1328480",
+    "index": 198
+  },
+  "https://doi.org/10.1145/1328438.1328482": {
+    "title": "Noam Zeilberger: Focusing and higher-order abstract syntax. 359-369",
+    "address": "https://doi.org/10.1145/1328438.1328482",
+    "index": 199
+  },
+  "https://doi.org/10.1145/1328438.1328483": {
+    "title": "Brigitte Pientka: A type-theoretic foundation for programming with higher-order abstract syntax and first-class substitutions. 371-382",
+    "address": "https://doi.org/10.1145/1328438.1328483",
+    "index": 200
+  },
+  "https://doi.org/10.1145/1328438.1328486": {
+    "title": "Sam Tobin-Hochstadt, Matthias Felleisen: The design and implementation of typed scheme. 395-406",
+    "address": "https://doi.org/10.1145/1328438.1328486",
+    "index": 201
+  },
+  "https://doi.org/10.1145/1328438.1328441": {
+    "title": "Yaron Minsky: Caml trading. 285",
+    "address": "https://doi.org/10.1145/1328438.1328441",
+    "index": 202
+  },
+  "https://doi.org/10.1145/1190216.1190218": {
+    "title": "Audrey Tang: Perl 6: reconciling the irreconcilable. 1",
+    "address": "https://doi.org/10.1145/1190216.1190218",
+    "index": 203
+  },
+  "https://doi.org/10.1145/1190216.1190220": {
+    "title": "Jacob Matthews, Robert Bruce Findler: Operational semantics for multi-language programs. 3-10",
+    "address": "https://doi.org/10.1145/1190216.1190220",
+    "index": 204
+  },
+  "https://doi.org/10.1145/1190216.1190221": {
+    "title": "Pavel Avgustinov, Elnar Hajiyev, Neil Ongkingco, Oege de Moor, Damien Sereni, Julian Tibble, Mathieu Verbaere: Semantics of static pointcuts in aspectJ. 11-23",
+    "address": "https://doi.org/10.1145/1190216.1190221",
+    "index": 205
+  },
+  "https://doi.org/10.1145/1190216.1190222": {
+    "title": "Juan Chen: A typed intermediate language for compiling multiple inheritance. 25-30",
+    "address": "https://doi.org/10.1145/1190216.1190222",
+    "index": 206
+  },
+  "https://doi.org/10.1145/1190216.1190229": {
+    "title": "Derek Dreyer, Robert Harper, Manuel M. T. Chakravarty, Gabriele Keller: Modular type classes. 63-70",
+    "address": "https://doi.org/10.1145/1190216.1190229",
+    "index": 207
+  },
+  "https://doi.org/10.1145/1190216.1190231": {
+    "title": "Yitzhak Mandelbaum, Kathleen Fisher, David Walker, Mary F. Fernández, Artem Gleyzer: PADS/ML: a functional data description language. 77-83",
+    "address": "https://doi.org/10.1145/1190216.1190231",
+    "index": 208
+  },
+  "https://doi.org/10.1145/1111037.1111038": {
+    "title": "James McKinna: Why dependent types matter. 1",
+    "address": "https://doi.org/10.1145/1111037.1111038",
+    "index": 209
+  },
+  "https://doi.org/10.1145/1111037.1111039": {
+    "title": "Kathleen Fisher, Yitzhak Mandelbaum, David Walker: The next 700 data description languages. 2-15",
+    "address": "https://doi.org/10.1145/1111037.1111039",
+    "index": 210
+  },
+  "https://doi.org/10.1145/1111037.1111053": {
+    "title": "Norman Danner, James S. Royer: Adventures in time and space. 168-179",
+    "address": "https://doi.org/10.1145/1111037.1111053",
+    "index": 211
+  },
+  "https://doi.org/10.1145/1111037.1111056": {
+    "title": "Nils Anders Danielsson, John Hughes, Patrik Jansson, Jeremy Gibbons: Fast and loose reasoning is morally correct. 206-217",
+    "address": "https://doi.org/10.1145/1111037.1111056",
+    "index": 212
+  },
+  "https://doi.org/10.1145/1111037.1111060": {
+    "title": "Ik-Soon Kim, Kwangkeun Yi, Cristiano Calcagno: A polymorphic modal type system for lisp-like multi-staged languages. 257-268",
+    "address": "https://doi.org/10.1145/1111037.1111060",
+    "index": 213
+  },
+  "https://doi.org/10.1145/1111037.1111061": {
+    "title": "Tim Sweeney: The next mainstream programming language: a game developer's perspective. 269",
+    "address": "https://doi.org/10.1145/1111037.1111061",
+    "index": 214
+  },
+  "https://doi.org/10.1145/1111037.1111064": {
+    "title": "Gabriel Dos Reis, Bjarne Stroustrup: Specifying C++ concepts. 295-308",
+    "address": "https://doi.org/10.1145/1111037.1111064",
+    "index": 215
+  },
+  "https://doi.org/10.1145/1111037.1111071": {
+    "title": "Daniel S. Dantas, David Walker: Harmless advice. 383-396",
+    "address": "https://doi.org/10.1145/1111037.1111071",
+    "index": 216
+  },
+  "https://doi.org/10.1145/1040305.1040308": {
+    "title": "Davide Ancona, Ferruccio Damiani, Sophia Drossopoulou, Elena Zucca: Polymorphic bytecode: compositional compilation for Java-like languages. 26-37",
+    "address": "https://doi.org/10.1145/1040305.1040308",
+    "index": 217
+  },
+  "https://doi.org/10.1145/1040305.1040309": {
+    "title": "Juan Chen, David Tarditi: A simple typed intermediate language for object-oriented languages. 38-49",
+    "address": "https://doi.org/10.1145/1040305.1040309",
+    "index": 218
+  },
+  "https://doi.org/10.1145/1040305.1040310": {
+    "title": "Haruo Hosoya, Alain Frisch, Giuseppe Castagna: Parametric polymorphism for XML. 50-62",
+    "address": "https://doi.org/10.1145/1040305.1040310",
+    "index": 219
+  },
+  "https://doi.org/10.1145/1040305.1040311": {
+    "title": "Eijiro Sumii, Benjamin C. Pierce: A bisimulation for type abstraction and recursion. 63-74",
+    "address": "https://doi.org/10.1145/1040305.1040311",
+    "index": 220
+  },
+  "https://doi.org/10.1145/1040305.1040314": {
+    "title": "Rajeev Alur, Pavol Cerný, P. Madhusudan, Wonhong Nam: Synthesis of interface specifications for Java classes. 98-109",
+    "address": "https://doi.org/10.1145/1040305.1040314",
+    "index": 221
+  },
+  "https://doi.org/10.1145/1040305.1040326": {
+    "title": "Matthew J. Parkinson, Gavin M. Bierman: Separation logic and abstraction. 247-258",
+    "address": "https://doi.org/10.1145/1040305.1040326",
+    "index": 222
+  },
+  "https://doi.org/10.1145/964001.964005": {
+    "title": "Dachuan Yu, Andrew Kennedy, Don Syme: Formalization of generics for the .NET common language runtime. 39-51",
+    "address": "https://doi.org/10.1145/964001.964005",
+    "index": 223
+  },
+  "https://doi.org/10.1145/964001.964013": {
+    "title": "Silvano Dal-Zilio, Denis Lugiez, Charles Meyssonnier: A logic you can count on. 135-146",
+    "address": "https://doi.org/10.1145/964001.964013",
+    "index": 224
+  },
+  "https://doi.org/10.1145/964001.964017": {
+    "title": "Roberto Giacobazzi, Isabella Mastroeni: Abstract non-interference: parameterizing non-interference by abstract interpretation. 186-197",
+    "address": "https://doi.org/10.1145/964001.964017",
+    "index": 225
+  },
+  "https://doi.org/10.1145/964001.964021": {
+    "title": "Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, Kenneth L. McMillan: Abstractions from proofs. 232-244",
+    "address": "https://doi.org/10.1145/964001.964021",
+    "index": 226
+  },
+  "https://doi.org/10.1145/964001.964027": {
+    "title": "Davide Ancona, Elena Zucca: Principal typings for Java-like languages. 306-317",
+    "address": "https://doi.org/10.1145/964001.964027",
+    "index": 227
+  },
+  "https://doi.org/10.1145/604131.604132": {
+    "title": "Jérôme Siméon, Philip Wadler: The essence of XML. 1-13",
+    "address": "https://doi.org/10.1145/604131.604132",
+    "index": 228
+  },
+  "https://doi.org/10.1145/604131.604134": {
+    "title": "Walid Taha, Michael Florentin Nielsen: Environment classifiers. 26-37",
+    "address": "https://doi.org/10.1145/604131.604134",
+    "index": 229
+  },
+  "https://doi.org/10.1145/604131.604151": {
+    "title": "Derek Dreyer, Karl Crary, Robert Harper: A type system for higher-order modules. 236-249",
+    "address": "https://doi.org/10.1145/604131.604151",
+    "index": 230
+  },
+  "https://doi.org/10.1145/604131.604152": {
+    "title": "Gilles Barthe, Horatiu Cirstea, Claude Kirchner, Luigi Liquori: Pure patterns type systems. 250-261",
+    "address": "https://doi.org/10.1145/604131.604152",
+    "index": 231
+  },
+  "https://doi.org/10.1145/604131.604153": {
+    "title": "Hans-Juergen Boehm: Destructors, finalizers, and synchronization. 262-272",
+    "address": "https://doi.org/10.1145/604131.604153",
+    "index": 232
+  },
+  "https://doi.org/10.1145/503272.503275": {
+    "title": "Glenn Ammons, Rastislav Bodík, James R. Larus: Mining specifications. 4-16",
+    "address": "https://doi.org/10.1145/503272.503275",
+    "index": 233
+  },
+  "https://doi.org/10.1145/503272.503276": {
+    "title": "Viktor Kuncak, Patrick Lam, Martin C. Rinard: Role analysis. 17-32",
+    "address": "https://doi.org/10.1145/503272.503276",
+    "index": 234
+  },
+  "https://doi.org/10.1145/503272.503279": {
+    "title": "Thomas A. Henzinger, Ranjit Jhala, Rupak Majumdar, Grégoire Sutre: Lazy abstraction. 58-70",
+    "address": "https://doi.org/10.1145/503272.503279",
+    "index": 235
+  },
+  "https://doi.org/10.1145/503272.503285": {
+    "title": "Matthias Felleisen: From POPL to the classroom and back. 126-127",
+    "address": "https://doi.org/10.1145/503272.503285",
+    "index": 236
+  },
+  "https://doi.org/10.1145/503272.503290": {
+    "title": "Patrick Cousot, Radhia Cousot: Systematic design of program transformation frameworks by abstract interpretation. 178-190",
+    "address": "https://doi.org/10.1145/503272.503290",
+    "index": 237
+  },
+  "https://doi.org/10.1145/503272.503296": {
+    "title": "Umut A. Acar, Guy E. Blelloch, Robert Harper: Adaptive functional programming. 247-259",
+    "address": "https://doi.org/10.1145/503272.503296",
+    "index": 238
+  },
+  "https://doi.org/10.1145/360204.375707": {
+    "title": "Davide Sangiorgi: Extensionality and Intensionality of the Ambient Logics. POPL 2001: 4-13",
+    "address": "https://doi.org/10.1145/360204.375707",
+    "index": 239
+  },
+  "https://doi.org/10.1145/360204.360207": {
+    "title": "Martin Odersky, Christoph Zenger, Matthias Zenger: Colored local type inference. 41-53",
+    "address": "https://doi.org/10.1145/360204.360207",
+    "index": 240
+  },
+  "https://doi.org/10.1145/360204.360222": {
+    "title": "Robin Milner: Computational flux. 220-221",
+    "address": "https://doi.org/10.1145/360204.360222",
+    "index": 241
+  },
+  "https://doi.org/10.1145/360204.360225": {
+    "title": "Peter Sewell: Modules, abstract types, and distributed versioning. 236-247",
+    "address": "https://doi.org/10.1145/360204.360225",
+    "index": 242
+  },
+  "https://doi.org/10.1145/325694.325699": {
+    "title": "Patrick Cousot, Radhia Cousot: Temporal Abstract Interpretation. 12-25",
+    "address": "https://doi.org/10.1145/325694.325699",
+    "index": 243
+  },
+  "https://doi.org/10.1145/325694.325708": {
+    "title": "Jeffrey R. Lewis, John Launchbury, Erik Meijer, Mark Shields: Implicit Parameters: Dynamic Scoping with Static Types. 108-118",
+    "address": "https://doi.org/10.1145/325694.325708",
+    "index": 244
+  },
+  "https://doi.org/10.1145/325694.325709": {
+    "title": "Ralf Hinze: A New Approach to Generic Functional Programming. 119-132",
+    "address": "https://doi.org/10.1145/325694.325709",
+    "index": 245
+  },
+  "https://doi.org/10.1145/325694.325710": {
+    "title": "Alan Bawden: First-Class Macros have Types. 133-141",
+    "address": "https://doi.org/10.1145/325694.325710",
+    "index": 246
+  },
+  "https://doi.org/10.1145/325694.325713": {
+    "title": "Raghavan Komondoor, Susan Horwitz: Semantics-Preserving Procedure Extraction. 155-169",
+    "address": "https://doi.org/10.1145/325694.325713",
+    "index": 247
+  },
+  "https://doi.org/10.1145/325694.325715": {
+    "title": "Oliver Rüthing, Jens Knoop, Bernhard Steffen: Sparse Code Motion. 170-183",
+    "address": "https://doi.org/10.1145/325694.325715",
+    "index": 248
+  },
+  "https://doi.org/10.1145/325694.325731": {
+    "title": "Craig Chambers, Bill Harrison, John M. Vlissides: A Debate on Language and Tool Support for Design Patterns. 277-289",
+    "address": "https://doi.org/10.1145/325694.325731",
+    "index": 249
+  },
+  "https://doi.org/10.1145/292540.292545": {
+    "title": "Keith Wansbrough, Simon L. Peyton Jones: Once Upon a Polymorphic Type. 15-28",
+    "address": "https://doi.org/10.1145/292540.292545",
+    "index": 250
+  },
+  "https://doi.org/10.1145/292540.292549": {
+    "title": "Robert O'Callahn: A Simple, Comprehensive Type System for Java Bytecode Subroutines. 70-78",
+    "address": "https://doi.org/10.1145/292540.292549",
+    "index": 251
+  },
+  "https://doi.org/10.1145/292540.292554": {
+    "title": "Ramkrishna Chatterjee, Barbara G. Ryder, William Landi: Relevant Context Inference. 133-146",
+    "address": "https://doi.org/10.1145/292540.292554",
+    "index": 252
+  },
+  "https://doi.org/10.1145/292540.292555": {
+    "title": "Martín Abadi, Anindya Banerjee, Nevin Heintze, Jon G. Riecke: A Core Calculus of Dependency. 147-160",
+    "address": "https://doi.org/10.1145/292540.292555",
+    "index": 253
+  },
+  "https://doi.org/10.1145/292540.292559": {
+    "title": "Oscar Waddell, R. Kent Dybvig: Extending the Scope of Syntactic Abstraction. 203-215",
+    "address": "https://doi.org/10.1145/292540.292559",
+    "index": 254
+  },
+  "https://doi.org/10.1145/292540.292563": {
+    "title": "Neal Glew, J. Gregory Morrisett: Type-Safe Linking and Modular Assembly Language. 250-261",
+    "address": "https://doi.org/10.1145/292540.292563",
+    "index": 255
+  },
+  "https://doi.org/10.1145/268946.268948": {
+    "title": "Saumya K. Debray, Robert Muth, Matthew Weippert: Alias Analysis of Executable Code. 12-24",
+    "address": "https://doi.org/10.1145/268946.268948",
+    "index": 256
+  },
+  "https://doi.org/10.1145/268946.268950": {
+    "title": "David A. Schmidt: Data Flow Analysis is Model Checking of Abstract Interpretations. 38-48",
+    "address": "https://doi.org/10.1145/268946.268950",
+    "index": 257
+  },
+  "https://doi.org/10.1145/268946.268961": {
+    "title": "Matthew Flatt, Shriram Krishnamurthi, Matthias Felleisen: Classes and Mixins. 171-183",
+    "address": "https://doi.org/10.1145/268946.268961",
+    "index": 258
+  },
+  "https://doi.org/10.1145/268946.268964": {
+    "title": "Thomas P. Jensen: Inference of Polymorphic and Conditional Strictness Properties. 209-221",
+    "address": "https://doi.org/10.1145/268946.268964",
+    "index": 259
+  },
+  "https://doi.org/10.1145/268946.268967": {
+    "title": "Benjamin C. Pierce, David N. Turner: Local Type Inference. 252-265",
+    "address": "https://doi.org/10.1145/268946.268967",
+    "index": 260
+  },
+  "https://doi.org/10.1145/268946.268969": {
+    "title": "Aleksy Schubert: Second-Order Unification and Type Inference for Church-Style Polymorphism. 279-288",
+    "address": "https://doi.org/10.1145/268946.268969",
+    "index": 261
+  },
+  "https://doi.org/10.1145/268946.268970": {
+    "title": "Mark Shields, Tim Sheard, Simon L. Peyton Jones: Dynamic Typing as Staged Type Inference. 289-302",
+    "address": "https://doi.org/10.1145/268946.268970",
+    "index": 262
+  },
+  "https://doi.org/10.1145/268946.268974": {
+    "title": "Alexander Aiken, David Gay: Barrier Inference. 342-354",
+    "address": "https://doi.org/10.1145/268946.268974",
+    "index": 263
+  },
+  "https://doi.org/10.1145/263699.263706": {
+    "title": "Pascal Fradet, Daniel Le Métayer: Shape Types. 27-39",
+    "address": "https://doi.org/10.1145/263699.263706",
+    "index": 264
+  },
+  "https://doi.org/10.1145/263699.263707": {
+    "title": "Didier Rémy, Jerome Vouillon: Objective ML: A Simple Object-Oriented Extension of ML. 40-53",
+    "address": "https://doi.org/10.1145/263699.263707",
+    "index": 265
+  },
+  "https://doi.org/10.1145/263699.263709": {
+    "title": "Krzysztof R. Apt, Andrea Schaerf: Search and Imperative Programming. 67-79",
+    "address": "https://doi.org/10.1145/263699.263709",
+    "index": 266
+  },
+  "https://doi.org/10.1145/263699.263713": {
+    "title": "Michael P. Plezbert, Ron Cytron: Is \"Just in Time\" = \"Better Late than Never\"? 120-131",
+    "address": "https://doi.org/10.1145/263699.263713",
+    "index": 267
+  },
+  "https://doi.org/10.1145/263699.263742": {
+    "title": "Amokrane Saïbi: Typing Algorithm in Type Theory with Inheritance. 292-301",
+    "address": "https://doi.org/10.1145/263699.263742",
+    "index": 268
+  },
+  "https://doi.org/10.1145/263699.263743": {
+    "title": "François Bourdoncle, Stephan Merz: Type-Checking Higher-Order Polymorphic Multi-Methods. 302-315",
+    "address": "https://doi.org/10.1145/263699.263743",
+    "index": 269
+  },
+  "https://doi.org/10.1145/263699.263744": {
+    "title": "Patrick Cousot: Types as Abstract Interpretations. 316-331",
+    "address": "https://doi.org/10.1145/263699.263744",
+    "index": 270
+  },
+  "https://doi.org/10.1145/263699.263760": {
+    "title": "David Sands: From SOS Rules to Proof Principles: An Operational Metatheory for Functional Languages. 428-441",
+    "address": "https://doi.org/10.1145/263699.263760",
+    "index": 271
+  },
+  "https://doi.org/10.1145/263699.263763": {
+    "title": "Patrik Jansson, Johan Jeuring: Polyp - A Polytypic Programming Language. 470-482",
+    "address": "https://doi.org/10.1145/263699.263763",
+    "index": 272
+  },
+  "https://doi.org/10.1145/263699.263765": {
+    "title": "Mark P. Jones: First-class Polymorphism with Type Inference. 483-496",
+    "address": "https://doi.org/10.1145/263699.263765",
+    "index": 273
+  },
+  "https://doi.org/10.1145/237721.237728": {
+    "title": "Trevor Jim: What Are Principal Typings and What Are They Good For? 42-53",
+    "address": "https://doi.org/10.1145/237721.237728",
+    "index": 274
+  },
+  "https://doi.org/10.1145/237721.237729": {
+    "title": "Martin Odersky, Konstantin Läufer: Putting Type Annotations to Work. 54-67",
+    "address": "https://doi.org/10.1145/237721.237729",
+    "index": 275
+  },
+  "https://doi.org/10.1145/237721.237731": {
+    "title": "Mark P. Jones: Using Parameterized Signatures to Express Modular Structure. 68-78",
+    "address": "https://doi.org/10.1145/237721.237731",
+    "index": 276
+  },
+  "https://doi.org/10.1145/237721.237741": {
+    "title": "Nicholas Pippenger: Pure versus Impure LISP. 104-109",
+    "address": "https://doi.org/10.1145/237721.237741",
+    "index": 277
+  },
+  "https://doi.org/10.1145/237721.237760": {
+    "title": "Todd A. Proebsting, Scott A. Watterson: Filter Fusion. 119-130",
+    "address": "https://doi.org/10.1145/237721.237760",
+    "index": 278
+  },
+  "https://doi.org/10.1145/237721.237765": {
+    "title": "Dawson R. Engler, Wilson C. Hsieh, M. Frans Kaashoek: C: A Language for High-Level, Efficient, and Machine-Independent Dynamic Code Generation. 131-144",
+    "address": "https://doi.org/10.1145/237721.237765",
+    "index": 279
+  },
+  "https://doi.org/10.1145/237721.237802": {
+    "title": "Kohei Honda: Composing Processes. 344-357",
+    "address": "https://doi.org/10.1145/237721.237802",
+    "index": 280
+  },
+  "https://doi.org/10.1145/237721.237809": {
+    "title": "Martín Abadi, Luca Cardelli, Ramesh Viswanathan: An Interpretation of Objects and Object Types. 396-409",
+    "address": "https://doi.org/10.1145/237721.237809",
+    "index": 281
+  },
+  "https://doi.org/10.1145/199448.199468": {
+    "title": "E. Allen Emerson, Kedar S. Namjoshi: Reasoning about Rings. 85-94",
+    "address": "https://doi.org/10.1145/199448.199468",
+    "index": 282
+  },
+  "https://doi.org/10.1145/199448.199472": {
+    "title": "Bard Bloom: Structured Operational Semantics as a Specification Language. 107-117",
+    "address": "https://doi.org/10.1145/199448.199472",
+    "index": 283
+  },
+  "https://doi.org/10.1145/199448.199473": {
+    "title": "Catherine Dubois, François Rouaix, Pierre Weis: Generic Polymorphism. 118-129",
+    "address": "https://doi.org/10.1145/199448.199473",
+    "index": 284
+  },
+  "https://doi.org/10.1145/199448.199482": {
+    "title": "Martin Hofmann, Benjamin C. Pierce: Positive Subtyping. 186-197",
+    "address": "https://doi.org/10.1145/199448.199482",
+    "index": 285
+  },
+  "https://doi.org/10.1145/199448.199484": {
+    "title": "Cormac Flanagan, Matthias Felleisen: The Semantics of Future and Its Use in Program Optimizations. 209-220",
+    "address": "https://doi.org/10.1145/199448.199484",
+    "index": 286
+  },
+  "https://doi.org/10.1145/199448.199516": {
+    "title": "Luca Cardelli: A Language with Distributed Scope. 286-297",
+    "address": "https://doi.org/10.1145/199448.199516",
+    "index": 287
+  },
+  "https://doi.org/10.1145/199448.199534": {
+    "title": "John Field, G. Ramalingam, Frank Tip: Parametric Program Slicing. 379-392",
+    "address": "https://doi.org/10.1145/199448.199534",
+    "index": 288
+  },
+  "https://doi.org/10.1145/174675.175187": {
+    "title": "Martin Odersky: A Functional Theory of Local Names. 48-59",
+    "address": "https://doi.org/10.1145/174675.175187",
+    "index": 289
+  },
+  "https://doi.org/10.1145/174675.176926": {
+    "title": "Xavier Leroy: Manifest Types, Modules, and Separate Compilation. 109-122",
+    "address": "https://doi.org/10.1145/174675.176926",
+    "index": 290
+  },
+  "https://doi.org/10.1145/174675.177899": {
+    "title": "Sergio Antoy, Rachid Echahed, Michael Hanus: A Needed Narrowing Strategy. 268-279",
+    "address": "https://doi.org/10.1145/174675.177899",
+    "index": 291
+  },
+  "https://doi.org/10.1145/185084.185098": {
+    "title": "Dinesh Katiyar, David C. Luckham, John C. Mitchell: Polymorphism and Subtyping in Interfaces. 22-34",
+    "address": "https://doi.org/10.1145/185084.185098",
+    "index": 292
+  },
+  "https://doi.org/10.1145/185084.185101": {
+    "title": "Robert J. Allen, David Garlan: Beyond Definition/Use: Architectural Interconnection. 35-45",
+    "address": "https://doi.org/10.1145/185084.185101",
+    "index": 293
+  },
+  "https://doi.org/10.1145/185084.185117": {
+    "title": "Gary T. Leavens: Inheritance of Interface Specifications (Extended Abstract). 129-138",
+    "address": "https://doi.org/10.1145/185084.185117",
+    "index": 294
+  },
+  "https://doi.org/10.1145/158511.158524": {
+    "title": "Simon L. Peyton Jones, Philip Wadler: Imperative Functional Programming. 71-84",
+    "address": "https://doi.org/10.1145/158511.158524",
+    "index": 295
+  },
+  "https://doi.org/10.1145/158511.158529": {
+    "title": "Atsushi Ohori, Kazuhiko Kato: Semantics for Communication Primitives in an Polymorphic Language. 99-112",
+    "address": "https://doi.org/10.1145/158511.158529",
+    "index": 296
+  },
+  "https://doi.org/10.1145/143165.143169": {
+    "title": "Philip Wadler: The Essence of Functional Programming. 1-14",
+    "address": "https://doi.org/10.1145/143165.143169",
+    "index": 297
+  },
+  "https://doi.org/10.1145/143165.143184": {
+    "title": "Patrick Cousot, Radhia Cousot: Inductive Definitions, Semantics and Abstract Interpretation. 83-94",
+    "address": "https://doi.org/10.1145/143165.143184",
+    "index": 298
+  },
+  "https://doi.org/10.1145/143165.143186": {
+    "title": "Roberto Barbuti, Michael Codish, Roberto Giacobazzi, Giorgio Levi: Modeling Prolog Control. 95-104",
+    "address": "https://doi.org/10.1145/143165.143186",
+    "index": 299
+  },
+  "https://doi.org/10.1145/143165.143189": {
+    "title": "Martin C. Rinard, Monica S. Lam: Semantic Foundations of Jade. 105-118",
+    "address": "https://doi.org/10.1145/143165.143189",
+    "index": 300
+  },
+  "https://doi.org/10.1145/143165.143191": {
+    "title": "Dave Berry, Robin Milner, David N. Turner: A Semantics for ML Concurrency Primitives. 119-129",
+    "address": "https://doi.org/10.1145/143165.143191",
+    "index": 301
+  },
+  "https://doi.org/10.1145/143165.143205": {
+    "title": "Xavier Leroy: Unboxed Objects and Polymorphic Typing. 177-188",
+    "address": "https://doi.org/10.1145/143165.143205",
+    "index": 302
+  },
+  "https://doi.org/10.1145/143165.143206": {
+    "title": "Mads Tofte: Principal Signatures for Higher-Order Program Modules. 189-199",
+    "address": "https://doi.org/10.1145/143165.143206",
+    "index": 303
+  },
+  "https://doi.org/10.1145/143165.143225": {
+    "title": "QingMing Ma: Parametricity as Subtyping. 281-292",
+    "address": "https://doi.org/10.1145/143165.143225",
+    "index": 304
+  },
+  "https://doi.org/10.1145/143165.143236": {
+    "title": "Radha Jagadeesan, Keshav Pingali: Abstract Semantics for a Higher-Order Functional Language with Logic Variables. 355-366",
+    "address": "https://doi.org/10.1145/143165.143236",
+    "index": 305
+  },
+  "https://doi.org/10.1145/99583.99588": {
+    "title": "Charles Consel, Olivier Danvy: Static and Dynamic Semantics Processing. 14-24",
+    "address": "https://doi.org/10.1145/99583.99588",
+    "index": 306
+  },
+  "https://doi.org/10.1145/99583.99617": {
+    "title": "Jon G. Riecke: Fully Abstract Translations between Functional Languages. 245-254",
+    "address": "https://doi.org/10.1145/99583.99617",
+    "index": 307
+  },
+  "https://doi.org/10.1145/99583.99620": {
+    "title": "John C. Mitchell, Sigurd Meldal, Neel Madhav: An Extension of Standard ML Modules with Subtyping and Inheritance. 270-278",
+    "address": "https://doi.org/10.1145/99583.99620",
+    "index": 308
+  },
+  "https://doi.org/10.1145/99583.99622": {
+    "title": "Xavier Leroy, Pierre Weis: Polymorphic Type Inference and Assignment. 291-302",
+    "address": "https://doi.org/10.1145/99583.99622",
+    "index": 309
+  },
+  "https://doi.org/10.1145/99583.99626": {
+    "title": "Martín Abadi, Gordon D. Plotkin: A Logical View of Composition and Refinement. 323-332",
+    "address": "https://doi.org/10.1145/99583.99626",
+    "index": 310
+  },
+  "https://doi.org/10.1145/96709.96712": {
+    "title": "Martín Abadi, Luca Cardelli, Pierre-Louis Curien, Jean-Jacques Lévy: Explicit Substitutions. 31-46",
+    "address": "https://doi.org/10.1145/96709.96712",
+    "index": 311
+  },
+  "https://doi.org/10.1145/96709.96721": {
+    "title": "William R. Cook, Walter L. Hill, Peter S. Canning: Inheritance Is Not Subtyping. 125-135",
+    "address": "https://doi.org/10.1145/96709.96721",
+    "index": 312
+  },
+  "https://doi.org/10.1145/75277.75279": {
+    "title": "Rebecca Parsons Selke: A Rewriting Semantics for Program Dependence Graphs. 12-24",
+    "address": "https://doi.org/10.1145/75277.75279",
+    "index": 313
+  },
+  "https://doi.org/10.1145/75277.75283": {
+    "title": "Philip Wadler, Stephen Blott: How to Make ad-hoc Polymorphism Less ad-hoc. 60-76",
+    "address": "https://doi.org/10.1145/75277.75283",
+    "index": 314
+  },
+  "https://doi.org/10.1145/75277.75288": {
+    "title": "Timothy J. Hickey: CLP* and Constraint Abstraction. 125-133",
+    "address": "https://doi.org/10.1145/75277.75288",
+    "index": 315
+  },
+  "https://doi.org/10.1145/75277.75297": {
+    "title": "José Meseguer: Relating Models of Polymorphism. 228-241",
+    "address": "https://doi.org/10.1145/75277.75297",
+    "index": 316
+  },
+  "https://doi.org/10.1145/75277.75299": {
+    "title": "Nachum Dershowitz, Stéphane Kaplan: Rewrite, Rewrite, Rewrite, Rewrite, Rewrite. 250-259",
+    "address": "https://doi.org/10.1145/75277.75299",
+    "index": 317
+  },
+  "https://doi.org/10.1145/75277.75306": {
+    "title": "Peter D. Mosses: Unified Algebras and Modules. 329-343",
+    "address": "https://doi.org/10.1145/75277.75306",
+    "index": 318
+  },
+  "https://doi.org/10.1145/73560.73564": {
+    "title": "John M. Lucassen, David K. Gifford: Polymorphic Effect Systems. 47-57",
+    "address": "https://doi.org/10.1145/73560.73564",
+    "index": 319
+  },
+  "https://doi.org/10.1145/73560.73579": {
+    "title": "Stephen J. Garland, John V. Guttag: Inductive Methods for Reasoning about Abstract Data Types. 219-228",
+    "address": "https://doi.org/10.1145/73560.73579",
+    "index": 320
+  },
+  "https://doi.org/10.1145/73560.73581": {
+    "title": "Luc Bougé, Nissim Francez: A Compositional Approach to Superimposition. 240-249",
+    "address": "https://doi.org/10.1145/73560.73581",
+    "index": 321
+  },
+  "https://doi.org/10.1145/41625.41629": {
+    "title": "Pierre Jouvelot: Semantic Parallelization: A Practical Exercise in Abstract Interpretation. 39-48",
+    "address": "https://doi.org/10.1145/41625.41629",
+    "index": 322
+  },
+  "https://doi.org/10.1145/41625.41630": {
+    "title": "Vijay A. Saraswat: The Concurrent Logic Programming Language CP: Definition and Operational Semantics. 49-62",
+    "address": "https://doi.org/10.1145/41625.41630",
+    "index": 323
+  },
+  "https://doi.org/10.1145/41625.41632": {
+    "title": "Eugene E. Kohlbecker, Mitchell Wand: Macro-by-Example: Deriving Syntactic Transformations from their Specifications. 77-84",
+    "address": "https://doi.org/10.1145/41625.41632",
+    "index": 324
+  },
+  "https://doi.org/10.1145/41625.41634": {
+    "title": "David Gelernter, Suresh Jagannathan, Thomas London: Environments as First Class Objects. 98-110",
+    "address": "https://doi.org/10.1145/41625.41634",
+    "index": 325
+  },
+  "https://doi.org/10.1145/41625.41650": {
+    "title": "Anne Neirynck, Prakash Panangaden, Alan J. Demers: Computation of Aliases and Support Sets. 274-283",
+    "address": "https://doi.org/10.1145/41625.41650",
+    "index": 326
+  },
+  "https://doi.org/10.1145/512644.512652": {
+    "title": "Ulrik Jørring, William L. Scherlis: Compilers and Staging Transformations. 86-96",
+    "address": "https://doi.org/10.1145/512644.512652",
+    "index": 327
+  },
+  "https://doi.org/10.1145/512644.512669": {
+    "title": "John C. Mitchell: Representation Independence and Data Abstraction. 263-276",
+    "address": "https://doi.org/10.1145/512644.512669",
+    "index": 328
+  },
+  "https://doi.org/10.1145/512644.512670": {
+    "title": "David B. MacQueen: Using Dependent Types to Express Modular Structure. 277-286",
+    "address": "https://doi.org/10.1145/512644.512670",
+    "index": 329
+  },
+  "https://doi.org/10.1145/512644.512671": {
+    "title": "Albert R. Meyer, Mark B. Reinhold: \"Type\" Is Not A Type. 287-295",
+    "address": "https://doi.org/10.1145/512644.512671",
+    "index": 330
+  },
+  "https://doi.org/10.1145/318593.318602": {
+    "title": "Mitchell Wand: Embedding Type Structure in Semantics. 1-6",
+    "address": "https://doi.org/10.1145/318593.318602",
+    "index": 331
+  },
+  "https://doi.org/10.1145/318593.318658": {
+    "title": "Keith D. Cooper: Analyzing Aliases of Reference Formal Parameters. 281-290",
+    "address": "https://doi.org/10.1145/318593.318658",
+    "index": 332
+  },
+  "https://doi.org/10.1145/800017.800513": {
+    "title": "Brian Cantwell Smith: Reflection and Semantics in Lisp. 23-35",
+    "address": "https://doi.org/10.1145/800017.800513",
+    "index": 333
+  },
+  "https://doi.org/10.1145/567067.567069": {
+    "title": "Jeffrey Bonar, Elliot Soloway: Uncovering Principles of Novice Programming. 10-13",
+    "address": "https://doi.org/10.1145/567067.567069",
+    "index": 334
+  },
+  "https://doi.org/10.1145/567067.567073": {
+    "title": "Greg Nelson: Verifying Reachability Invariants of Linked Structures. 38-47",
+    "address": "https://doi.org/10.1145/567067.567073",
+    "index": 335
+  },
+  "https://doi.org/10.1145/567067.567077": {
+    "title": "Daniel Leivant: Polymorphic Type Inference. 88-98",
+    "address": "https://doi.org/10.1145/567067.567077",
+    "index": 336
+  },
+  "https://doi.org/10.1145/567067.567083": {
+    "title": "Daniel Leivant: Structural Semantics for Polymorphic Data Types. 155-166",
+    "address": "https://doi.org/10.1145/567067.567083",
+    "index": 337
+  },
+  "https://doi.org/10.1145/567067.567089": {
+    "title": "Jeanne Ferrante, Karl J. Ottenstein: A Program Form Based on Data Dependency in Predicate Regions. 217-236",
+    "address": "https://doi.org/10.1145/567067.567089",
+    "index": 338
+  },
+  "https://doi.org/10.1145/567067.567091": {
+    "title": "Peter Wegner: On the Unification of Data and Program Abstraction in Ada. 256-264",
+    "address": "https://doi.org/10.1145/567067.567091",
+    "index": 339
+  },
+  "https://doi.org/10.1145/567067.567094": {
+    "title": "Bent Bruun Kristensen, Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard: Abstraction Mechanisms in the Beta Programming Language. 285-298",
+    "address": "https://doi.org/10.1145/567067.567094",
+    "index": 340
+  },
+  "https://doi.org/10.1145/582153.582169": {
+    "title": "David Sandberg: Lithe: A Language Combining a Flexible Syntax, Classes. 142-145",
+    "address": "https://doi.org/10.1145/582153.582169",
+    "index": 341
+  },
+  "https://doi.org/10.1145/567446.567460": {
+    "title": "Deepak Kapur, Mandayam K. Srivas: Expressiveness of the Operation Set of a Data Abstraction. 139-153",
+    "address": "https://doi.org/10.1145/567446.567460",
+    "index": 342
+  },
+  "https://doi.org/10.1145/567446.567461": {
+    "title": "David R. Musser: On Proving Inductive Properties of Abstract Data Types. 154-162",
+    "address": "https://doi.org/10.1145/567446.567461",
+    "index": 343
+  },
+  "https://doi.org/10.1145/567446.567464": {
+    "title": "Rohit Parikh: Propositional Logics of Programs: Systems, Models, and Complexity. 186-192",
+    "address": "https://doi.org/10.1145/567446.567464",
+    "index": 344
+  },
+  "https://doi.org/10.1145/567752.567759": {
+    "title": "Robert Cartwright, John McCarthy: First Order Programming Logic. 68-80",
+    "address": "https://doi.org/10.1145/567752.567759",
+    "index": 345
+  },
+  "https://doi.org/10.1145/567752.567769": {
+    "title": "Irene Greif, Albert R. Meyer: Specifying Programming Language Semantics. 180-189",
+    "address": "https://doi.org/10.1145/567752.567769",
+    "index": 346
+  },
+  "https://doi.org/10.1145/512760.512765": {
+    "title": "Marvin H. Solomon: Type Definitions with Parameters. 31-38",
+    "address": "https://doi.org/10.1145/512760.512765",
+    "index": 347
+  },
+  "https://doi.org/10.1145/512760.512766": {
+    "title": "John C. Reynolds: Syntactic Control of Interference. 39-46",
+    "address": "https://doi.org/10.1145/512760.512766",
+    "index": 348
+  },
+  "https://doi.org/10.1145/512950.512969": {
+    "title": "Eric C. R. Hehner: Structuring. 201-205",
+    "address": "https://doi.org/10.1145/512950.512969",
+    "index": 349
+  },
+  "https://doi.org/10.1145/512950.512972": {
+    "title": "Bernard Lang: Threshold Evaluation and the Semantics of Call by Value, Assignment and Generic Procedures. 227-237",
+    "address": "https://doi.org/10.1145/512950.512972",
+    "index": 350
+  },
+  "https://doi.org/10.1145/800168.811545": {
+    "title": "Brenda S. Baker: An Algorithm for Structuring Programs. 113-126",
+    "address": "https://doi.org/10.1145/800168.811545",
+    "index": 351
+  },
+  "https://doi.org/10.1145/800168.811548": {
+    "title": "David B. Loveman: Program Improvement by Source to Source Transformation. 140-152",
+    "address": "https://doi.org/10.1145/800168.811548",
+    "index": 352
+  },
+  "https://doi.org/10.1145/800168.811549": {
+    "title": "Ben Wegbreit: Goal-Directed Program Transformation. 153-170",
+    "address": "https://doi.org/10.1145/800168.811549",
+    "index": 353
+  },
+  "https://doi.org/10.1145/800168.811550": {
+    "title": "Robert S. Boyer, J. Strother Moore, Robert E. Shostak: Primitive Recursive Program Transformations. 171-174",
+    "address": "https://doi.org/10.1145/800168.811550",
+    "index": 354
+  },
+  "https://doi.org/10.1145/512976.512983": {
+    "title": "Susan L. Gerhart: Correctness-Preserving Program Transformations. 54-66",
+    "address": "https://doi.org/10.1145/512976.512983",
+    "index": 355
+  },
+  "https://doi.org/10.1145/512927.512934": {
+    "title": "John W. Backus: Programming Language Semantics and Closed Applicative Languages. 71-86",
+    "address": "https://doi.org/10.1145/512927.512934",
+    "index": 356
+  },
+  "https://doi.org/10.1145/512927.512940": {
+    "title": "Alice E. Fischer, Michael J. Fischer: Mode Modules as Representations of Domains. 139-143",
+    "address": "https://doi.org/10.1145/512927.512940",
+    "index": 357
+  },
+  "https://doi.org/10.1145/512927.512943": {
+    "title": "Richard J. Waldinger, Karl N. Levitt: Reasoning About Programs. 169-182",
+    "address": "https://doi.org/10.1145/512927.512943",
+    "index": 358
+  },
+  "https://doi.org/10.1145/3434311": {
+    "title": "Jinwoo Kim, Qinheping Hu, Loris D'Antoni, Thomas W. Reps: Semantics-guided synthesis. 1-32",
+    "address": "https://doi.org/10.1145/3434311",
+    "index": 359
+  },
+  "https://doi.org/10.1145/3434323": {
+    "title": "Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, Lars Birkedal: Distributed causal memory: modular specification and verification in higher-order distributed separation logic. 1-29",
+    "address": "https://doi.org/10.1145/3434323",
+    "index": 360
+  },
+  "https://doi.org/10.1145/3434326": {
+    "title": "Alban Reynaud, Gabriel Scherer, Jeremy Yallop: A practical mode system for recursive definitions. 1-29",
+    "address": "https://doi.org/10.1145/3434326",
+    "index": 361
+  },
+  "https://doi.org/10.1145/3473579": {
+    "title": "John M. Li, Andrew W. Appel: Deriving efficient program transformations from rewrite rules. 1-29",
+    "address": "https://doi.org/10.1145/3473579",
+    "index": 362
+  },
+  "https://doi.org/10.1145/3290323": {
+    "title": "Karl Crary: Fully abstract module compilation. 10:1-10:29",
+    "address": "https://doi.org/10.1145/3290323",
+    "index": 363
+  },
+  "https://doi.org/10.1145/3290355": {
+    "title": "Patrick Cousot, Roberto Giacobazzi, Francesco Ranzato: A²I: abstract² interpretation. 42:1-42:31",
+    "address": "https://doi.org/10.1145/3290355",
+    "index": 364
+  },
+  "https://doi.org/10.1145/3290356": {
+    "title": "John Toman, Dan Grossman: Concerto: a framework for combined concrete and abstract interpretation. 43:1-43:29",
+    "address": "https://doi.org/10.1145/3290356",
+    "index": 365
+  },
+  "https://doi.org/10.1145/3290357": {
+    "title": "Martin Bodin, Philippa Gardner, Thomas P. Jensen, Alan Schmitt: Skeletal semantics and their interpretations. 44:1-44:31",
+    "address": "https://doi.org/10.1145/3290357",
+    "index": 366
+  },
+  "https://doi.org/10.1145/3341691": {
+    "title": "Andrea Vezzosi, Anders Mörtberg, Andreas Abel: Cubical agda: a dependently typed programming language with univalence and higher inductive types. 87:1-87:29",
+    "address": "https://doi.org/10.1145/3341691",
+    "index": 367
+  },
+  "https://doi.org/10.1145/3341707": {
+    "title": "Wouter Swierstra, Tim Baanen: A predicate transformer semantics for effects (functional pearl). 103:1-103:26",
+    "address": "https://doi.org/10.1145/3341707",
+    "index": 368
+  },
+  "https://doi.org/10.1145/3360602": {
+    "title": "Sven Keidel, Sebastian Erdweg: Sound and reusable components for abstract interpretation. 176:1-176:28",
+    "address": "https://doi.org/10.1145/3360602",
+    "index": 369
+  },
+  "https://doi.org/10.1145/3158126": {
+    "title": "Dominique Devriese, Marco Patrignani, Frank Piessens: Parametricity versus the universal type. 38:1-38:23",
+    "address": "https://doi.org/10.1145/3158126",
+    "index": 370
+  },
+  "https://doi.org/10.1145/3158130": {
+    "title": "Martin Odersky, Olivier Blanvillain, Fengyun Liu, Aggelos Biboudis, Heather Miller, Sandro Stucki: Simplicitly: foundations and applications of implicit function types. 42:1-42:29",
+    "address": "https://doi.org/10.1145/3158130",
+    "index": 371
+  },
+  "https://doi.org/10.1145/3236763": {
+    "title": "Jennifer Hackett, Graham Hutton: Parametric polymorphism and operational improvement. 68:1-68:24",
+    "address": "https://doi.org/10.1145/3236763",
+    "index": 372
+  },
+  "https://doi.org/10.1145/3236767": {
+    "title": "Sven Keidel, Casper Bach Poulsen, Sebastian Erdweg: Compositional soundness proofs of abstract interpreters. 72:1-72:26",
+    "address": "https://doi.org/10.1145/3236767",
+    "index": 373
+  },
+  "https://doi.org/10.1145/3236785": {
+    "title": "Guillaume Allais, Robert Atkey, James Chapman, Conor McBride, James McKinna: A type and scope safe universe of syntaxes with binding: their semantics and proofs. 90:1-90:30",
+    "address": "https://doi.org/10.1145/3236785",
+    "index": 374
+  },
+  "https://doi.org/10.1145/3236801": {
+    "title": "Cyrus Omar, Jonathan Aldrich: Reasonably programmable literal notation. 106:1-106:32",
+    "address": "https://doi.org/10.1145/3236801",
+    "index": 375
+  },
+  "https://doi.org/10.1145/3276508": {
+    "title": "Jyothi Vedurada, V. Krishna Nandivada: Identifying refactoring opportunities for replacing type code with subclass and state. 138:1-138:28",
+    "address": "https://doi.org/10.1145/3276508",
+    "index": 376
+  },
+  "https://doi.org/10.1145/3453483.3454044": {
+    "title": "Benno Stein, Bor-Yuh Evan Chang, Manu Sridharan: Demanded abstract interpretation. 282-295",
+    "address": "https://doi.org/10.1145/3453483.3454044",
+    "index": 377
+  },
+  "https://doi.org/10.1145/3453483.3454074": {
+    "title": "Cosku Acay, Rolph Recto, Joshua Gancher, Andrew C. Myers, Elaine Shi: Viaduct: an extensible, optimizing compiler for secure distributed programs. 740-755",
+    "address": "https://doi.org/10.1145/3453483.3454074",
+    "index": 378
+  },
+  "https://doi.org/10.1145/3453483.3454082": {
+    "title": "Minki Cho, Sung-Hwan Lee, Chung-Kil Hur, Ori Lahav: Modular data-race-freedom guarantees in the promising semantics. 867-882",
+    "address": "https://doi.org/10.1145/3453483.3454082",
+    "index": 379
+  },
+  "https://doi.org/10.1145/3453483.3454087": {
+    "title": "Shachar Itzhaky, Hila Peleg, Nadia Polikarpova, Reuben N. S. Rowe, Ilya Sergey: Cyclic program synthesis. 944-959",
+    "address": "https://doi.org/10.1145/3453483.3454087",
+    "index": 380
+  },
+  "https://doi.org/10.1145/3385412.3386035": {
+    "title": "Jason Breck, John Cyphert, Zachary Kincaid, Thomas W. Reps: Templates and recurrences: better together. 688-702",
+    "address": "https://doi.org/10.1145/3385412.3386035",
+    "index": 381
+  },
+  "https://doi.org/10.1145/3394451.3397204": {
+    "title": "Michael Reif, Florian Kübler, Dominik Helm, Ben Hermann, Michael Eichberg, Mira Mezini: TACAI: an intermediate representation based on abstract interpretation. 2-7",
+    "address": "https://doi.org/10.1145/3394451.3397204",
+    "index": 382
+  },
+  "https://doi.org/10.1145/3314221.3314589": {
+    "title": "Rijnard van Tonder, Claire Le Goues: Lightweight multi-language syntax transformation with parser parser combinators. 363-378",
+    "address": "https://doi.org/10.1145/3314221.3314589",
+    "index": 383
+  },
+  "https://doi.org/10.1145/3314221.3314645": {
+    "title": "Blake Loring, Duncan Mitchell, Johannes Kinder: Sound regular expression semantics for dynamic symbolic execution of JavaScript. 425-438",
+    "address": "https://doi.org/10.1145/3314221.3314645",
+    "index": 384
+  },
+  "https://doi.org/10.1145/3192366.3192398": {
+    "title": "Justin Pombrio, Shriram Krishnamurthi: Inferring type rules for syntactic sugar. 812-825",
+    "address": "https://doi.org/10.1145/3192366.3192398",
+    "index": 385
+  },
+  "https://doi.org/10.1145/3211346.3211355": {
+    "title": "Justin Gottschlich, Armando Solar-Lezama, Nesime Tatbul, Michael Carbin, Martin Rinard, Regina Barzilay, Saman P. Amarasinghe, Joshua B. Tenenbaum, Tim Mattson: The three pillars of machine programming. 69-80",
+    "address": "https://doi.org/10.1145/3211346.3211355",
+    "index": 386
+  },
+  "https://doi.org/10.1145/3062341.3062362": {
+    "title": "Olli Saarikivi, Margus Veanes, Todd Mytkowicz, Madan Musuvathi: Fusing effectful comprehensions. 17-32",
+    "address": "https://doi.org/10.1145/3062341.3062362",
+    "index": 387
+  },
+  "https://doi.org/10.1145/3062341.3062357": {
+    "title": "Richard A. Eisenberg, Simon Peyton Jones: Levity polymorphism. 525-539",
+    "address": "https://doi.org/10.1145/3062341.3062357",
+    "index": 388
+  },
+  "https://doi.org/10.1145/2908080.2908081": {
+    "title": "Kayvan Memarian, Justus Matthiesen, James Lingard, Kyndylan Nienhuis, David Chisnall, Robert N. M. Watson, Peter Sewell: Into the depths of C: elaborating the de facto standards. 1-15",
+    "address": "https://doi.org/10.1145/2908080.2908081",
+    "index": 389
+  },
+  "https://doi.org/10.1145/2908080.2908110": {
+    "title": "Panagiotis Vekris, Benjamin Cosman, Ranjit Jhala: Refinement types for TypeScript. 310-325",
+    "address": "https://doi.org/10.1145/2908080.2908110",
+    "index": 390
+  },
+  "https://doi.org/10.1145/2908080.2908103": {
+    "title": "Ravi Chugh, Brian Hempel, Mitchell Spradlin, Jacob Albers: Programmatic and direct manipulation, together at last. 341-354",
+    "address": "https://doi.org/10.1145/2908080.2908103",
+    "index": 391
+  },
+  "https://doi.org/10.1145/2931028.2931032": {
+    "title": "Louis Mandel, Josh Milthorpe, Olivier Tardieu: Control structure overloading in X10. 1-6",
+    "address": "https://doi.org/10.1145/2931028.2931032",
+    "index": 392
+  },
+  "https://doi.org/10.1145/2737924.2737991": {
+    "title": "Daejun Park, Andrei Stefanescu, Grigore Rosu: KJS: a complete formal semantics of JavaScript. 346-356",
+    "address": "https://doi.org/10.1145/2737924.2737991",
+    "index": 393
+  },
+  "https://doi.org/10.1145/2737924.2737990": {
+    "title": "William J. Bowman, Swaha Miller, Vincent St-Amour, R. Kent Dybvig: Profile-guided meta-programming. 403-412",
+    "address": "https://doi.org/10.1145/2737924.2737990",
+    "index": 394
+  },
+  "https://doi.org/10.1145/2737924.2738008": {
+    "title": "Yizhou Zhang, Matthew C. Loring, Guido Salvaneschi, Barbara Liskov, Andrew C. Myers: Lightweight, flexible object-oriented generics. 436-445",
+    "address": "https://doi.org/10.1145/2737924.2738008",
+    "index": 395
+  },
+  "https://doi.org/10.1145/2774959.2774969": {
+    "title": "Andreas Klöckner: Loo.py: from fortran to performance via transformation and substitution rules. 1-6",
+    "address": "https://doi.org/10.1145/2774959.2774969",
+    "index": 396
+  },
+  "https://doi.org/10.1145/2774959.2774968": {
+    "title": "Aaron W. Hsu: Accelerating information experts through compiler design. 37-42",
+    "address": "https://doi.org/10.1145/2774959.2774968",
+    "index": 397
+  },
+  "https://doi.org/10.1145/2594291.2594319": {
+    "title": "Justin Pombrio, Shriram Krishnamurthi: Resugaring: lifting evaluation sequences through syntactic sugar. 361-371",
+    "address": "https://doi.org/10.1145/2594291.2594319",
+    "index": 398
+  },
+  "https://doi.org/10.1145/2594291.2594293": {
+    "title": "John Vilk, Emery D. Berger: Doppio: breaking the browser language barrier. 508-518",
+    "address": "https://doi.org/10.1145/2594291.2594293",
+    "index": 399
+  },
+  "https://doi.org/10.1145/2491956.2462157": {
+    "title": "James R. Larus: Look up!: your future is in the cloud. 1-2",
+    "address": "https://doi.org/10.1145/2491956.2462157",
+    "index": 400
+  },
+  "https://doi.org/10.1145/2491956.2491960": {
+    "title": "Nick P. Johnson, Taewook Oh, Ayal Zaks, David I. August: Fast condensation of the program dependence graph. 39-50",
+    "address": "https://doi.org/10.1145/2491956.2491960",
+    "index": 401
+  },
+  "https://doi.org/10.1145/2491956.2491962": {
+    "title": "Ben L. Titzer: Harmonizing classes, functions, tuples, and type parameters in virgil iii. 85-94",
+    "address": "https://doi.org/10.1145/2491956.2491962",
+    "index": 402
+  },
+  "https://doi.org/10.1145/2491956.2462187": {
+    "title": "Martin Kong, Richard Veras, Kevin Stock, Franz Franchetti, Louis-Noël Pouchet, P. Sadayappan: When polyhedral transformations meet SIMD code generation. 127-138",
+    "address": "https://doi.org/10.1145/2491956.2462187",
+    "index": 403
+  },
+  "https://doi.org/10.1145/2491956.2462169": {
+    "title": "Xiaokang Qiu, Pranav Garg, Andrei Stefanescu, Parthasarathy Madhusudan: Natural proofs for structure, data, and separation. 231-242",
+    "address": "https://doi.org/10.1145/2491956.2462169",
+    "index": 404
+  },
+  "https://doi.org/10.1145/2491956.2462185": {
+    "title": "Xin Zhang, Mayur Naik, Hongseok Yang: Finding optimum abstractions in parametric dataflow analysis. 365-376",
+    "address": "https://doi.org/10.1145/2491956.2462185",
+    "index": 405
+  },
+  "https://doi.org/10.1145/2487568.2487570": {
+    "title": "Stephan Arlt, Philipp Rümmer, Martin Schäf: Joogie: from Java through Jimple to Boogie. 3-8",
+    "address": "https://doi.org/10.1145/2487568.2487570",
+    "index": 406
+  },
+  "https://doi.org/10.1145/2487568.2487572": {
+    "title": "Oksana Tkachuk: OCSEGen: open components and systems environment generator. 9-12",
+    "address": "https://doi.org/10.1145/2487568.2487572",
+    "index": 407
+  },
+  "https://doi.org/10.1145/2487568.2487574": {
+    "title": "Raúl A. Santelices, Yiji Zhang, Haipeng Cai, Siyuan Jiang: DUA-forensics: a fine-grained dependence analysis and instrumentation framework based on Soot. 13-18",
+    "address": "https://doi.org/10.1145/2487568.2487574",
+    "index": 408
+  },
+  "https://doi.org/10.1145/2254064.2254103": {
+    "title": "Paul Gazzillo, Robert Grimm: SuperC: parsing all of C by taming the preprocessor. 323-334",
+    "address": "https://doi.org/10.1145/2254064.2254103",
+    "index": 409
+  },
+  "https://doi.org/10.1145/1993498.1993514": {
+    "title": "Sam Tobin-Hochstadt, Vincent St-Amour, Ryan Culpepper, Matthew Flatt, Matthias Felleisen: Languages as libraries. 132-141",
+    "address": "https://doi.org/10.1145/1993498.1993514",
+    "index": 410
+  },
+  "https://doi.org/10.1145/1993498.1993548": {
+    "title": "Terence Parr, Kathleen Fisher: LL(*): the foundation of the ANTLR parser generator. 425-436",
+    "address": "https://doi.org/10.1145/1993498.1993548",
+    "index": 411
+  },
+  "https://doi.org/10.1145/1993498.1993567": {
+    "title": "Percy Liang, Mayur Naik: Scaling abstraction refinement via pruning. 590-601",
+    "address": "https://doi.org/10.1145/1993498.1993567",
+    "index": 412
+  },
+  "https://doi.org/10.1145/1806596.1806611": {
+    "title": "Zachary Tatlock, Sorin Lerner: Bringing extensibility to verified compilers. 111-121",
+    "address": "https://doi.org/10.1145/1806596.1806611",
+    "index": 413
+  },
+  "https://doi.org/10.1145/1806596.1806612": {
+    "title": "Adam Chlipala: Ur: statically-typed metaprogramming with type-level record computation. 122-133",
+    "address": "https://doi.org/10.1145/1806596.1806612",
+    "index": 414
+  },
+  "https://doi.org/10.1145/1806596.1806629": {
+    "title": "Swarat Chaudhuri, Armando Solar-Lezama: Smooth interpretation. 279-291",
+    "address": "https://doi.org/10.1145/1806596.1806629",
+    "index": 415
+  },
+  "https://doi.org/10.1145/1375581.1375592": {
+    "title": "Shan Shan Huang, Yannis Smaragdakis: Expressive and safe static reflection with MorphJ. 79-89",
+    "address": "https://doi.org/10.1145/1375581.1375592",
+    "index": 416
+  },
+  "https://doi.org/10.1145/1375581.1375624": {
+    "title": "Karen Zee, Viktor Kuncak, Martin C. Rinard: Full functional verification of linked data structures. 349-361",
+    "address": "https://doi.org/10.1145/1375581.1375624",
+    "index": 417
+  },
+  "https://doi.org/10.1145/1250734.1250744": {
+    "title": "Tatiana Shpeisman, Vijay Menon, Ali-Reza Adl-Tabatabai, Steven Balensiefer, Dan Grossman, Richard L. Hudson, Katherine F. Moore, Bratin Saha: Enforcing isolation and ordering in STM. 78-88",
+    "address": "https://doi.org/10.1145/1250734.1250744",
+    "index": 418
+  },
+  "https://doi.org/10.1145/1250734.1250754": {
+    "title": "Armando Solar-Lezama, Gilad Arnold, Liviu Tancau, Rastislav Bodík, Vijay A. Saraswat, Sanjit A. Seshia: Sketching stencils. 167-178",
+    "address": "https://doi.org/10.1145/1250734.1250754",
+    "index": 419
+  },
+  "https://doi.org/10.1145/1133981.1133987": {
+    "title": "Robert Grimm: Better extensibility through modular syntax. 38-51",
+    "address": "https://doi.org/10.1145/1133981.1133987",
+    "index": 420
+  },
+  "https://doi.org/10.1145/1133981.1134026": {
+    "title": "Sumit Gulwani, Ashish Tiwari: Combining abstract interpreters. 376-386",
+    "address": "https://doi.org/10.1145/1133981.1134026",
+    "index": 421
+  },
+  "https://doi.org/10.1145/1065010.1065021": {
+    "title": "Jeremy G. Siek, Andrew Lumsdaine: Essential language support for generic programming. 73-84",
+    "address": "https://doi.org/10.1145/1065010.1065021",
+    "index": 422
+  },
+  "https://doi.org/10.1145/1065010.1065022": {
+    "title": "Brian Chin, Shane Markstrum, Todd D. Millstein: Semantic type qualifiers. 85-95",
+    "address": "https://doi.org/10.1145/1065010.1065022",
+    "index": 423
+  },
+  "https://doi.org/10.1145/1065010.1065042": {
+    "title": "Hans-Juergen Boehm: Threads cannot be implemented as a library. 261-268",
+    "address": "https://doi.org/10.1145/1065010.1065042",
+    "index": 424
+  },
+  "https://doi.org/10.1145/996841.996842": {
+    "title": "Andrew W. Appel: Social processes and proofs of theorems and programs, revisited. 170",
+    "address": "https://doi.org/10.1145/996841.996842",
+    "index": 425
+  },
+  "https://doi.org/10.1145/996841.996865": {
+    "title": "Manish Vachharajani, Neil Vachharajani, David I. August: The liberty structural specification language: a high-level modeling language for component reuse. 195-206",
+    "address": "https://doi.org/10.1145/996841.996865",
+    "index": 426
+  },
+  "https://doi.org/10.1145/512529.512562": {
+    "title": "Jason Baker, Wilson C. Hsieh: Maya: Multiple-Dispatch Syntax Extension in Java. 270-281",
+    "address": "https://doi.org/10.1145/512529.512562",
+    "index": 427
+  },
+  "https://doi.org/10.1145/301618.301641": {
+    "title": "Karl Crary, Robert Harper, Sidd Puri: What is a Recursive Module? 50-63",
+    "address": "https://doi.org/10.1145/301618.301641",
+    "index": 428
+  },
+  "https://doi.org/10.1145/277650.277740": {
+    "title": "Ali-Reza Adl-Tabatabai, Michal Cierniak, Guei-Yuan Lueh, Vishesh M. Parikh, James M. Stichnoth: Fast, Effective Code Generation in a Just-In-Time Java Compiler. 280-290",
+    "address": "https://doi.org/10.1145/277650.277740",
+    "index": 429
+  },
+  "https://doi.org/10.1145/277650.277745": {
+    "title": "Andrew Ayers, Stuart de Jong, John Peyton, Richard Schooler: Scalable Cross-Module Optimization. 301-312",
+    "address": "https://doi.org/10.1145/277650.277745",
+    "index": 430
+  },
+  "https://doi.org/10.1145/231379.231411": {
+    "title": "Dawson R. Engler: VCODE: a Retargetable, Extensible, Very Fast Dynamic Code Generation System. 160-170",
+    "address": "https://doi.org/10.1145/231379.231411",
+    "index": 431
+  },
+  "https://doi.org/10.1145/178243.178427": {
+    "title": "Cindy Norris, Lori L. Pollock: register Allocation over the Program Dependence Graph. 266-277",
+    "address": "https://doi.org/10.1145/178243.178427",
+    "index": 432
+  },
+  "https://doi.org/10.1145/155090.155105": {
+    "title": "Daniel Weise, Roger F. Crew: Programmable Syntax Macros. 156-165",
+    "address": "https://doi.org/10.1145/155090.155105",
+    "index": 433
+  },
+  "https://doi.org/10.1145/143095.143132": {
+    "title": "Vivek Sarkar, Radhika Thekkath: A General Framework for Iteration-Reordering Loop Transformations. 175-187",
+    "address": "https://doi.org/10.1145/143095.143132",
+    "index": 434
+  },
+  "https://doi.org/10.1145/143095.143139": {
+    "title": "Roger Hoover: Alphonse: Incremental Computation as a Programming Abstraction. 261-272",
+    "address": "https://doi.org/10.1145/143095.143139",
+    "index": 435
+  },
+  "https://doi.org/10.1145/73141.74820": {
+    "title": "Robert Cartwright, Matthias Felleisen: The Semantics of Program Dependence. 13-27",
+    "address": "https://doi.org/10.1145/73141.74820",
+    "index": 436
+  },
+  "https://doi.org/10.1145/73141.74840": {
+    "title": "Wen-mei W. Hwu, Pohua P. Chang: Inline Function Expansion for Compiling C Programs. 246-257",
+    "address": "https://doi.org/10.1145/73141.74840",
+    "index": 437
+  },
+  "https://doi.org/10.1145/53990.54010": {
+    "title": "Frank Pfenning, Conal Elliott: Higher-Order Abstract Syntax. 199-208",
+    "address": "https://doi.org/10.1145/53990.54010",
+    "index": 438
+  },
+  "https://doi.org/10.1145/502874.502902": {
+    "title": "Michael R. Levy: Type checking, separate compilation and reusability. 285-289",
+    "address": "https://doi.org/10.1145/502874.502902",
+    "index": 439
+  },
+  "https://doi.org/10.1145/800004.807942": {
+    "title": "William D. Young, Donald I. Good: Generics and verification in Ada. 123-127",
+    "address": "https://doi.org/10.1145/800004.807942",
+    "index": 440
+  },
+  "https://doi.org/10.1145/800229.806948": {
+    "title": "James B. Morris: Data abstraction: A static implementation strategy. 1-7",
+    "address": "https://doi.org/10.1145/800229.806948",
+    "index": 441
+  },
+  "https://doi.org/10.1145/800229.806949": {
+    "title": "Richard C. Holt, David B. Wortman: A model for implementing Euclid modules and type templates. 8-12",
+    "address": "https://doi.org/10.1145/800229.806949",
+    "index": 442
+  },
+  "https://doi.org/10.1145/951762.951764": {
+    "title": "Terry Winograd: Breaking the Complexity Barrier again. 13-30",
+    "address": "https://doi.org/10.1145/951762.951764",
+    "index": 443
+  },
+  "https://doi.org/10.1145/951762.951768": {
+    "title": "Susan Artandi: The On-Line Interface of Library Management and Document Retrieval Systems. 71-74",
+    "address": "https://doi.org/10.1145/951762.951768",
+    "index": 444
+  },
+  "https://doi.org/10.1145/951762.951770": {
+    "title": "Thomas H. Martin, Richard L. Guertin: Language Decisions Made While Designing an Interactive Information Retrieval System. 86-100",
+    "address": "https://doi.org/10.1145/951762.951770",
+    "index": 445
+  },
+  "https://doi.org/10.1145/951762.951772": {
+    "title": "An Evaluation of Languages for the Implementation of Information Storage and Retrieval Systems. 113-117",
+    "address": "https://doi.org/10.1145/951762.951772",
+    "index": 446
+  },
+  "https://doi.org/10.1145/3179541.3179542": {
+    "title": "Sara-Jane Dunn: Biological computation (keynote). 1",
+    "address": "https://doi.org/10.1145/3179541.3179542",
+    "index": 447
+  },
+  "https://doi.org/10.1145/2889420.2892271": {
+    "title": "Greg Michaelson: Are there Domain Specific Languages? 1:1-1:3",
+    "address": "https://doi.org/10.1145/2889420.2892271",
+    "index": 448
+  },
+  "https://doi.org/10.1109/CGO.2011.5764667": {
+    "title": "Erik R. Altman: The language, optimizer, and tools mess.",
+    "address": "https://doi.org/10.1109/CGO.2011.5764667",
+    "index": 449
+  },
+  "https://doi.org/10.1109/CGO.2007.14": {
+    "title": "A. Dreweke, Marc Wörlein, Ingrid Fischer, Dominic Schell, Thorsten Meinl, Michael Philippsen: Graph-Based Procedural Abstraction. 259-270",
+    "address": "https://doi.org/10.1109/CGO.2007.14",
+    "index": 450
+  },
+  "https://doi.org/10.1109/CGO.2004.1281664": {
+    "title": "Sungdo Moon, Xinliang D. Li, Robert Hundt, Dhruva R. Chakrabarti, Luis A. Lozano, Uma Srinivasan, Shin-Ming Liu: SYZYGY - A Framework for Scalable Cross-Module IPO. 65-74",
+    "address": "https://doi.org/10.1109/CGO.2004.1281664",
+    "index": 451
+  },
+  "https://doi.org/10.1145/3133841.3133847": {
+    "title": "Vlad A. Vergu, Michiel Haisma, Eelco Visser: The semantics of name resolution in grace. 63-74",
+    "address": "https://doi.org/10.1145/3133841.3133847",
+    "index": 452
+  },
+  "https://doi.org/10.1145/2661088.2661102": {
+    "title": "Stefan Hanenberg: Why do we know so little about programming languages, and what would have happened if we had known more? 1",
+    "address": "https://doi.org/10.1145/2661088.2661102",
+    "index": 453
+  },
+  "https://doi.org/10.1145/2661088.2661098": {
+    "title": "James Ian Johnson, David Van Horn: Abstracting abstract control. 11-22",
+    "address": "https://doi.org/10.1145/2661088.2661098",
+    "index": 454
+  },
+  "https://doi.org/10.1145/2661088.2661097": {
+    "title": "Tim Disney, Nathan Faubion, David Herman, Cormac Flanagan: Sweeten your JavaScript: hygienic macros for ES5. 35-44",
+    "address": "https://doi.org/10.1145/2661088.2661097",
+    "index": 455
+  },
+  "https://doi.org/10.1145/2661088.2661095": {
+    "title": "Nicholas D. Matsakis, David Herman, Dmitry Lomov: Typed objects in JavaScript. 125-134",
+    "address": "https://doi.org/10.1145/2661088.2661095",
+    "index": 456
+  },
+  "https://doi.org/10.1145/2384577.2384582": {
+    "title": "Bard Bloom, Martin Hirzel: Robust scripting via patterns. 29-40",
+    "address": "https://doi.org/10.1145/2384577.2384582",
+    "index": 457
+  },
+  "https://doi.org/10.1145/2384577.2384583": {
+    "title": "Kurt Nørmark, Lone Leth Thomsen, Bent Thomsen: Object-oriented programming with gradual abstraction. 41-52",
+    "address": "https://doi.org/10.1145/2384577.2384583",
+    "index": 458
+  },
+  "https://doi.org/10.1145/1869631.1869641": {
+    "title": "Eyvind W. Axelsen, Stein Krogdahl, Birger Møller-Pedersen: Controlling dynamic module composition through an extensible meta-level API. 81-96",
+    "address": "https://doi.org/10.1145/1869631.1869641",
+    "index": 459
+  },
+  "https://doi.org/10.1145/1640134.1640139": {
+    "title": "Eyvind W. Axelsen, Stein Krogdahl: Groovy package templates: supporting reuse and runtime adaption of class hierarchies. 15-26",
+    "address": "https://doi.org/10.1145/1640134.1640139",
+    "index": 460
+  },
+  "https://doi.org/10.1145/1640134.1640140": {
+    "title": "T. Stephen Strickland, Matthias Felleisen: Contracts for first-class modules. 27-38",
+    "address": "https://doi.org/10.1145/1640134.1640140",
+    "index": 461
+  },
+  "https://doi.org/10.1145/1640134.1640141": {
+    "title": "Jonathan Riehl: Language embedding and optimization in mython. 39-48",
+    "address": "https://doi.org/10.1145/1640134.1640141",
+    "index": 462
+  },
+  "https://doi.org/10.1145/1640134.1640143": {
+    "title": "Yit Phang Khoo, Michael Hicks, Jeffrey S. Foster, Vibha Sazawal: Directing JavaScript with arrows. 49-58",
+    "address": "https://doi.org/10.1145/1640134.1640143",
+    "index": 463
+  },
+  "https://doi.org/10.1145/1408681.1408686": {
+    "title": "Laurence Tratt: Language design: back to the future? 5",
+    "address": "https://doi.org/10.1145/1408681.1408686",
+    "index": 464
+  },
+  "https://doi.org/10.1145/1146841.1146842": {
+    "title": "Pascal Costanza, Robert Hirschfeld: Language constructs for context-oriented programming: an overview of ContextL. 1-10",
+    "address": "https://doi.org/10.1145/1146841.1146842",
+    "index": 465
+  },
+  "https://doi.org/10.1145/3426428.3426916": {
+    "title": "James Koppel, Daniel Jackson: Demystifying dependence. 48-64",
+    "address": "https://doi.org/10.1145/3426428.3426916",
+    "index": 0
+  },
+  "https://doi.org/10.1145/3426428.3426918": {
+    "title": "Matthew Sotoudeh, Aditya V. Thakur: Analogy-making as a Core primitive in the software engineering toolbox. 101-121",
+    "address": "https://doi.org/10.1145/3426428.3426918",
+    "index": 1
+  },
+  "https://doi.org/10.1145/3426428.3426922": {
+    "title": "Patrick Lam, Jens Dietrich, David J. Pearce: Putting the semantics into semantic versioning. 157-179",
+    "address": "https://doi.org/10.1145/3426428.3426922",
+    "index": 2
+  },
+  "https://doi.org/10.1145/3426428.3426927": {
+    "title": "Stefan K. Muller, Hannah Ringler: A rhetorical framework for programming language evaluation. 187-194",
+    "address": "https://doi.org/10.1145/3426428.3426927",
+    "index": 3
+  },
+  "https://doi.org/10.1145/3426428.3426925": {
+    "title": "Paolo Ciancarini, Sergey Masyagin, Giancarlo Succi: Software design as story telling: reflecting on the work of Italo Calvino. 195-208",
+    "address": "https://doi.org/10.1145/3426428.3426925",
+    "index": 4
+  },
+  "https://doi.org/10.1145/3359591.3359734": {
+    "title": "Shrutarshi Basu, Nate Foster, James Grimmelmann: Property conveyances as a programming language. 128-142",
+    "address": "https://doi.org/10.1145/3359591.3359734",
+    "index": 5
+  },
+  "https://doi.org/10.1145/3359591.3359738": {
+    "title": "Elisa L. A. Baniassad, Ivan Beschastnikh, Reid Holmes, Gregor Kiczales, Meghan Allen: Learning to listen for design. 179-186",
+    "address": "https://doi.org/10.1145/3359591.3359738",
+    "index": 6
+  },
+  "https://doi.org/10.1145/3359591.3359739": {
+    "title": "Yannis Smaragdakis: Next-paradigm programming languages: what will they look like and what changes will they bring? 187-197",
+    "address": "https://doi.org/10.1145/3359591.3359739",
+    "index": 7
+  },
+  "https://doi.org/10.1145/3276954.3276960": {
+    "title": "Carol V. Alexandru, José J. Merchante, Sebastiano Panichella, Sebastian Proksch, Harald C. Gall, Gregorio Robles: On the usage of pythonic idioms. 1-11",
+    "address": "https://doi.org/10.1145/3276954.3276960",
+    "index": 8
+  },
+  "https://doi.org/10.1145/3276954.3276963": {
+    "title": "Antranig Basman, Clayton H. Lewis, Colin B. D. Clark: The open authorial principle: supporting networks of authors in creating externalisable designs. 29-43",
+    "address": "https://doi.org/10.1145/3276954.3276963",
+    "index": 9
+  },
+  "https://doi.org/10.1145/3276954.3276956": {
+    "title": "Stephan Brandauer, Elias Castegren, Tobias Wrigstad: C♭: a new modular approach to implementing efficient and tunable collections. 57-71",
+    "address": "https://doi.org/10.1145/3276954.3276956",
+    "index": 10
+  },
+  "https://doi.org/10.1145/3276954.3276955": {
+    "title": "Pablo Inostroza, Tijs van der Storm: JEff: objects for effect. 111-124",
+    "address": "https://doi.org/10.1145/3276954.3276955",
+    "index": 11
+  },
+  "https://doi.org/10.1145/3276954.3276966": {
+    "title": "Friedrich Steimann: Fatal abstraction. 125-130",
+    "address": "https://doi.org/10.1145/3276954.3276966",
+    "index": 12
+  },
+  "https://doi.org/10.1145/3276954.3276967": {
+    "title": "Daco C. Harkes: We should stop claiming generality in our domain-specific language papers (extended abstract). 131-132",
+    "address": "https://doi.org/10.1145/3276954.3276967",
+    "index": 13
+  },
+  "https://doi.org/10.1145/3276954.3276965": {
+    "title": "Michael J. Coblenz, Jonathan Aldrich, Brad A. Myers, Joshua Sunshine: Interdisciplinary programming language design. 133-146",
+    "address": "https://doi.org/10.1145/3276954.3276965",
+    "index": 14
+  },
+  "https://doi.org/10.1145/3133850.3133863": {
+    "title": "Preston Tunnell Wilson, Justin Pombrio, Shriram Krishnamurthi: Can we crowdsource language design? 1-17",
+    "address": "https://doi.org/10.1145/3133850.3133863",
+    "index": 15
+  },
+  "https://doi.org/10.1145/3133850.3133851": {
+    "title": "Roger D. Chamberlain: Assessing user preferences in programming language design. 18-29",
+    "address": "https://doi.org/10.1145/3133850.3133851",
+    "index": 16
+  },
+  "https://doi.org/10.1145/3133850.3133859": {
+    "title": "Friedrich Steimann: Replacing phrase structure grammar with dependency grammar in the design and implementation of programming languages. 30-43",
+    "address": "https://doi.org/10.1145/3133850.3133859",
+    "index": 17
+  },
+  "https://doi.org/10.1145/3133850.3133861": {
+    "title": "Juliana Franco, Martin Hagelin, Tobias Wrigstad, Sophia Drossopoulou, Susan Eisenbach: You can have it all: abstraction and good cache performance. 148-167",
+    "address": "https://doi.org/10.1145/3133850.3133861",
+    "index": 18
+  },
+  "https://doi.org/10.1145/3133850.3133852": {
+    "title": "Christopher Hall, Trevor Standley, Tobias Höllerer: Infra: structure all the way down: structured data as a visual programming language. 180-197",
+    "address": "https://doi.org/10.1145/3133850.3133852",
+    "index": 19
+  },
+  "https://doi.org/10.1145/3133850.3133857": {
+    "title": "Christoph M. Kirsch: Selfie and the basics. 198-213",
+    "address": "https://doi.org/10.1145/3133850.3133857",
+    "index": 20
+  },
+  "https://doi.org/10.1145/3133850.3133867": {
+    "title": "Stephen Kell: Some were meant for C: the endurance of an unmanageable language. 229-245",
+    "address": "https://doi.org/10.1145/3133850.3133867",
+    "index": 21
+  },
+  "https://doi.org/10.1145/3133850.3133868": {
+    "title": "Antti-Juhani Kaijanaho: Concept analysis in programming language research: done well it is all right. 246-259",
+    "address": "https://doi.org/10.1145/3133850.3133868",
+    "index": 22
+  },
+  "https://doi.org/10.1145/2986012.2986019": {
+    "title": "Kimio Kuramitsu: Nez: practical open grammar language. 29-42",
+    "address": "https://doi.org/10.1145/2986012.2986019",
+    "index": 23
+  },
+  "https://doi.org/10.1145/2986012.2986026": {
+    "title": "Niklas Fors, Görel Hedin: Bloqqi: modular feature-based block diagram programming. 57-73",
+    "address": "https://doi.org/10.1145/2986012.2986026",
+    "index": 24
+  },
+  "https://doi.org/10.1145/2986012.2986025": {
+    "title": "Mehrdad Afshari, Zhendong Su: Building white-box abstractions by program refinement. 74-81",
+    "address": "https://doi.org/10.1145/2986012.2986025",
+    "index": 25
+  },
+  "https://doi.org/10.1145/2986012.2986015": {
+    "title": "Ivan Kuraj, Daniel Jackson: Exploring the role of sequential computation in distributed systems: motivating a programming paradigm shift. 145-164",
+    "address": "https://doi.org/10.1145/2986012.2986015",
+    "index": 26
+  },
+  "https://doi.org/10.1145/2986012.2986022": {
+    "title": "Patrick Rein, Robert Hirschfeld, Marcel Taeumel: Gramada: immediacy in programming language development. 165-179",
+    "address": "https://doi.org/10.1145/2986012.2986022",
+    "index": 27
+  },
+  "https://doi.org/10.1145/2986012.2986031": {
+    "title": "James Noble, Andrew P. Black, Kim B. Bruce, Michael Homer, Mark S. Miller: The left hand of equals. 224-237",
+    "address": "https://doi.org/10.1145/2986012.2986031",
+    "index": 28
+  },
+  "https://doi.org/10.1145/2814228.2814231": {
+    "title": "Mattias De Wael, Stefan Marr, Joeri De Koster, Jennifer B. Sartor, Wolfgang De Meuter: Just-in-time data structures. 61-75",
+    "address": "https://doi.org/10.1145/2814228.2814231",
+    "index": 29
+  },
+  "https://doi.org/10.1145/2814228.2814240": {
+    "title": "Junsong Li, Justin Pombrio, Joe Gibbs Politz, Shriram Krishnamurthi: Slimming languages by reducing sugar: a case for semantics-altering transformations. 90-106",
+    "address": "https://doi.org/10.1145/2814228.2814240",
+    "index": 30
+  },
+  "https://doi.org/10.1145/2814228.2814242": {
+    "title": "Ali Afroozeh, Anastasia Izmaylova: One parser to rule them all. 151-170",
+    "address": "https://doi.org/10.1145/2814228.2814242",
+    "index": 31
+  },
+  "https://doi.org/10.1145/2814228.2814236": {
+    "title": "Guillermo Polito, Stéphane Ducasse, Noury Bouraqadi, Luc Fabresse: A bootstrapping infrastructure to build and extend Pharo-like languages. 183-196",
+    "address": "https://doi.org/10.1145/2814228.2814236",
+    "index": 32
+  },
+  "https://doi.org/10.1145/2814228.2814233": {
+    "title": "Guillermo Polito, Stéphane Ducasse, Noury Bouraqadi, Luc Fabresse, Max Mattone: Virtualization support for dynamic core library update. 211-223",
+    "address": "https://doi.org/10.1145/2814228.2814233",
+    "index": 33
+  },
+  "https://doi.org/10.1145/2814228.2814241": {
+    "title": "Guido Chari, Diego Garbervetsky, Stefan Marr, Stéphane Ducasse: Towards fully reflective environments. 240-253",
+    "address": "https://doi.org/10.1145/2814228.2814241",
+    "index": 34
+  },
+  "https://doi.org/10.1145/2814228.2814249": {
+    "title": "Tomas Petricek: Against a universal definition of 'Type'. 254-266",
+    "address": "https://doi.org/10.1145/2814228.2814249",
+    "index": 35
+  },
+  "https://doi.org/10.1145/2814228.2814247": {
+    "title": "David M. West: The Cuban software revolution: 2016¿2025. 267-281",
+    "address": "https://doi.org/10.1145/2814228.2814247",
+    "index": 36
+  },
+  "https://doi.org/10.1145/2661136.2661152": {
+    "title": "Hesam Samimi, Chris Deaton, Yoshiki Ohshima, Alessandro Warth, Todd D. Millstein: Call by Meaning. 11-28",
+    "address": "https://doi.org/10.1145/2661136.2661152",
+    "index": 37
+  },
+  "https://doi.org/10.1145/2661136.2661139": {
+    "title": "James Skene: Description Logic as Programming Language. 143-162",
+    "address": "https://doi.org/10.1145/2661136.2661139",
+    "index": 38
+  },
+  "https://doi.org/10.1145/2661136.2661138": {
+    "title": "Stéphane Conversy: Unifying Textual and Visual: A Theoretical Account of the Visual Perception of Programming Languages. 201-212",
+    "address": "https://doi.org/10.1145/2661136.2661138",
+    "index": 39
+  },
+  "https://doi.org/10.1145/2661136.2661154": {
+    "title": "Stephen Kell: In Search of Types. 227-241",
+    "address": "https://doi.org/10.1145/2661136.2661154",
+    "index": 40
+  },
+  "https://doi.org/10.1145/2661136.2661159": {
+    "title": "Mathieu Acher, Benoît Combemale, Philippe Collet: Metamorphic Domain-Specific Languages: A Journey into the Shapes of a Language. 243-253",
+    "address": "https://doi.org/10.1145/2661136.2661159",
+    "index": 41
+  },
+  "https://doi.org/10.1145/2661136.2661156": {
+    "title": "Andreas Stefik, Stefan Hanenberg: The Programming Language Wars: Questions and Responsibilities for the Programming Language Community. 283-299",
+    "address": "https://doi.org/10.1145/2661136.2661156",
+    "index": 42
+  },
+  "https://doi.org/10.1145/2661136.2661155": {
+    "title": "Richard P. Gabriel: I Throw Itching Powder at Tulips. 301-319",
+    "address": "https://doi.org/10.1145/2661136.2661155",
+    "index": 43
+  },
+  "https://doi.org/10.1145/2384592.2384595": {
+    "title": "Mehrdad Afshari, Earl T. Barr, Zhendong Su: Liberating the programmer with prorogued programming. 11-26",
+    "address": "https://doi.org/10.1145/2384592.2384595",
+    "index": 44
+  },
+  "https://doi.org/10.1145/2384592.2384597": {
+    "title": "Leo A. Meyerovich, Ariel S. Rabkin: Socio-PLT: principles for programming language adoption. 39-54",
+    "address": "https://doi.org/10.1145/2384592.2384597",
+    "index": 45
+  },
+  "https://doi.org/10.1145/2384592.2384599": {
+    "title": "Joe Gibbs Politz, Hannah Quay-de la Vallee, Shriram Krishnamurthi: Progressive types. 55-66",
+    "address": "https://doi.org/10.1145/2384592.2384599",
+    "index": 46
+  },
+  "https://doi.org/10.1145/2384592.2384601": {
+    "title": "Andrew P. Black, Kim B. Bruce, Michael Homer, James Noble: Grace: the absence of (inessential) difficulty. 85-98",
+    "address": "https://doi.org/10.1145/2384592.2384601",
+    "index": 47
+  },
+  "https://doi.org/10.1145/2384592.2384608": {
+    "title": "Christian Heinlein: MOST-flexiPL: modular, statically typed, flexibly extensible programming language. 159-178",
+    "address": "https://doi.org/10.1145/2384592.2384608",
+    "index": 48
+  },
+  "https://doi.org/10.1145/2384592.2384609": {
+    "title": "Alex Loh, Tijs van der Storm, William R. Cook: Managed data: modular strategies for data abstraction. 179-194",
+    "address": "https://doi.org/10.1145/2384592.2384609",
+    "index": 49
+  },
+  "https://doi.org/10.1145/2384592.2384611": {
+    "title": "Richard P. Gabriel: The structure of a programming language revolution. 195-214",
+    "address": "https://doi.org/10.1145/2384592.2384611",
+    "index": 50
+  },
+  "https://doi.org/10.1145/2048237.2048241": {
+    "title": "Guillaume Marceau, Kathi Fisler, Shriram Krishnamurthi: Mind your language: on novices' interactions with error messages. 3-18",
+    "address": "https://doi.org/10.1145/2048237.2048241",
+    "index": 51
+  },
+  "https://doi.org/10.1145/2048237.2048246": {
+    "title": "Sean McDirmid: Coding at the speed of touch. 61-76",
+    "address": "https://doi.org/10.1145/2048237.2048246",
+    "index": 52
+  },
+  "https://doi.org/10.1145/2048237.2048247": {
+    "title": "Behram F. T. Mistree, Bhupesh Chandra, Ewen Cheslack-Postava, Philip Alexander Levis, David Gay: Emerson: accessible scripting for applications in an extensible virtual world. 77-90",
+    "address": "https://doi.org/10.1145/2048237.2048247",
+    "index": 53
+  },
+  "https://doi.org/10.1145/3426425.3426933": {
+    "title": "Vadim Zaytsev: Software language engineers' worst nightmare. 72-85",
+    "address": "https://doi.org/10.1145/3426425.3426933",
+    "index": 0
+  },
+  "https://doi.org/10.1145/3426425.3426935": {
+    "title": "Chelsea Barraball, Moeketsi Raselimo, Bernd Fischer: An interactive feedback system for grammar development (tool paper). 101-107",
+    "address": "https://doi.org/10.1145/3426425.3426935",
+    "index": 1
+  },
+  "https://doi.org/10.1145/3426425.3426936": {
+    "title": "Matteo Cimini, Dale Miller, Jeremy G. Siek: Extrinsically typed operational semantics for functional languages. 108-125",
+    "address": "https://doi.org/10.1145/3426425.3426936",
+    "index": 2
+  },
+  "https://doi.org/10.1145/3426425.3426937": {
+    "title": "Jorge Perianez-Pascual, Roberto Rodríguez-Echeverría, Loli Burgueño, Jordi Cabot: Towards the optical character recognition of DSLs. 126-132",
+    "address": "https://doi.org/10.1145/3426425.3426937",
+    "index": 3
+  },
+  "https://doi.org/10.1145/3426425.3426945": {
+    "title": "Mikhail Barash: Example-driven software language engineering. 246-252",
+    "address": "https://doi.org/10.1145/3426425.3426945",
+    "index": 4
+  },
+  "https://doi.org/10.1145/3426425.3426948": {
+    "title": "Mauricio Verano Merino, Tijs van der Storm: Block-based syntax from context-free grammars. 283-295",
+    "address": "https://doi.org/10.1145/3426425.3426948",
+    "index": 5
+  },
+  "https://doi.org/10.1145/3357766.3359533": {
+    "title": "Javier Luis Cánovas Izquierdo, Jordi Cabot: Analysis and modeling of the governance in general programming languages. 179-183",
+    "address": "https://doi.org/10.1145/3357766.3359533",
+    "index": 6
+  },
+  "https://doi.org/10.1145/3276604.3276622": {
+    "title": "Manuel Leduc, Thomas Degueule, Benoît Combemale: Modular language composition for the masses. 47-59",
+    "address": "https://doi.org/10.1145/3276604.3276622",
+    "index": 7
+  },
+  "https://doi.org/10.1145/3276604.3276982": {
+    "title": "Filip Strömbäck: Storm: a language platform for interacting and extensible languages (tool demo). 60-64",
+    "address": "https://doi.org/10.1145/3276604.3276982",
+    "index": 8
+  },
+  "https://doi.org/10.1145/3276604.3276983": {
+    "title": "Matteo Cimini: Languages as first-class citizens (vision paper). 65-69",
+    "address": "https://doi.org/10.1145/3276604.3276983",
+    "index": 9
+  },
+  "https://doi.org/10.1145/3276604.3276623": {
+    "title": "Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoît Combemale: Shape-diverse DSLs: languages without borders (vision paper). 215-219",
+    "address": "https://doi.org/10.1145/3276604.3276623",
+    "index": 10
+  },
+  "https://doi.org/10.1145/3136014.3148041": {
+    "title": "Peter D. Mosses: Engineering meta-languages for specifying software languages (keynote). 1",
+    "address": "https://doi.org/10.1145/3136014.3148041",
+    "index": 11
+  },
+  "https://doi.org/10.1145/3136014.3136016": {
+    "title": "Haoyuan Zhang, Huang Li, Bruno C. d. S. Oliveira: Type-safe modular parsing. 2-13",
+    "address": "https://doi.org/10.1145/3136014.3136016",
+    "index": 12
+  },
+  "https://doi.org/10.1145/3136014.3136025": {
+    "title": "Kimio Kuramitsu: A symbol-based extension of parsing expression grammars and context-sensitive packrat parsing. 26-37",
+    "address": "https://doi.org/10.1145/3136014.3136025",
+    "index": 13
+  },
+  "https://doi.org/10.1145/3136014.3136036": {
+    "title": "Nicolas Laurent: Red Shift: procedural shift-reduce parsing (vision paper). 38-42",
+    "address": "https://doi.org/10.1145/3136014.3136036",
+    "index": 14
+  },
+  "https://doi.org/10.1145/3136014.3136024": {
+    "title": "Scott J. H. Buckley, Anthony M. Sloane: A formalisation of parameterised reference attribute grammars. 139-150",
+    "address": "https://doi.org/10.1145/3136014.3136024",
+    "index": 15
+  },
+  "https://doi.org/10.1145/3136014.3136023": {
+    "title": "Ted Kaminski, Eric Van Wyk: Ensuring non-interference of composable language extensions. 163-174",
+    "address": "https://doi.org/10.1145/3136014.3136023",
+    "index": 16
+  },
+  "https://doi.org/10.1007/978-3-642-28830-2_6": {
+    "title": "Andrew Sutton, Bjarne Stroustrup: Design of Concept Libraries for C++. 97-118",
+    "address": "https://doi.org/10.1007/978-3-642-28830-2_6",
+    "index": 17
+  },
+  "https://doi.org/10.1007/978-3-642-28830-2_14": {
+    "title": "Martin Erwig, Eric Walkingshaw: Semantics First! - Rethinking the Language Design Process. 243-262",
+    "address": "https://doi.org/10.1007/978-3-642-28830-2_14",
+    "index": 18
+  },
+  "https://doi.org/10.1007/978-3-642-28830-2_15": {
+    "title": "Ted Kaminski, Eric Van Wyk: Integrating Attribute Grammar and Functional Programming Language Features. 263-282",
+    "address": "https://doi.org/10.1007/978-3-642-28830-2_15",
+    "index": 19
+  },
+  "https://doi.org/10.1007/978-3-642-19440-5_8": {
+    "title": "Peter Pirkelbauer, Damian Dechev, Bjarne Stroustrup: Support for the Evolution of C++ Generic Functions. 123-142",
+    "address": "https://doi.org/10.1007/978-3-642-19440-5_8",
+    "index": 20
+  },
+  "https://doi.org/10.1007/978-3-642-12107-4_9": {
+    "title": "Anya Helene Bagge: Yet Another Language Extension Scheme. 123-132",
+    "address": "https://doi.org/10.1007/978-3-642-12107-4_9",
+    "index": 21
+  },
+  "https://doi.org/10.1007/978-3-642-12107-4_10": {
+    "title": "Jerónimo Irazábal, Claudia Pons: Model Transformation Languages Relying on Models as ADTs. 133-143",
+    "address": "https://doi.org/10.1007/978-3-642-12107-4_10",
+    "index": 22
+  },
+  "https://doi.org/10.1007/978-3-642-00434-6_1": {
+    "title": "Anneke Kleppe: The Field of Software Language Engineering. 1-7",
+    "address": "https://doi.org/10.1007/978-3-642-00434-6_1",
+    "index": 23
+  },
+  "https://doi.org/10.1145/3460228": {
+    "title": "Weixin Zhang, Yaozhu Sun, Bruno C. d. S. Oliveira: Compositional Programming. 9:1-9:61",
+    "address": "https://doi.org/10.1145/3460228",
+    "index": 0
+  },
+  "https://doi.org/10.1145/3039207": {
+    "title": "Martin Hirzel, Scott Schneider, Bugra Gedik: SPL: An Extensible Language for Distributed Stream Processing. 5:1-5:39",
+    "address": "https://doi.org/10.1145/3039207",
+    "index": 1
+  },
+  "https://doi.org/10.1145/2766446": {
+    "title": "Gary T. Leavens, David A. Naumann: Behavioral Subtyping, Specification Inheritance, and Modular Reasoning. 13:1-13:88",
+    "address": "https://doi.org/10.1145/2766446",
+    "index": 2
+  },
+  "https://doi.org/10.1145/1890028.1890029": {
+    "title": "Shan Shan Huang, Yannis Smaragdakis: Morphing: Structurally shaping a class by reflecting on others. 6:1-6:44",
+    "address": "https://doi.org/10.1145/1890028.1890029",
+    "index": 3
+  },
+  "https://doi.org/10.1145/2049706.2049709": {
+    "title": "Werner Dietl, Sophia Drossopoulou, Peter Müller: Separating ownership topology and encapsulation with generic universe types. 20:1-20:62",
+    "address": "https://doi.org/10.1145/2049706.2049709",
+    "index": 4
+  },
+  "https://doi.org/10.1145/1596527.1596528": {
+    "title": "Mark Harman, David W. Binkley, Keith B. Gallagher, Nicolas Gold, Jens Krinke: Dependence clusters in source code. 1:1-1:33",
+    "address": "https://doi.org/10.1145/1596527.1596528",
+    "index": 5
+  },
+  "https://doi.org/10.1145/1596527.1596529": {
+    "title": "Haruo Hosoya, Alain Frisch, Giuseppe Castagna: Parametric polymorphism for XML. 2:1-2:56",
+    "address": "https://doi.org/10.1145/1596527.1596529",
+    "index": 6
+  },
+  "https://doi.org/10.1145/1734206.1734209": {
+    "title": "Peter Sewell, Pawel T. Wojciechowski, Asis Unyapoth: Nomadic pict: Programming languages, communication infrastructure overlays, and semantics for mobile computation. 12:1-12:63",
+    "address": "https://doi.org/10.1145/1734206.1734209",
+    "index": 7
+  },
+  "https://doi.org/10.1145/1749608.1749612": {
+    "title": "Gogul Balakrishnan, Thomas W. Reps: WYSINWYX: What you see is not what you eXecute. 23:1-23:84",
+    "address": "https://doi.org/10.1145/1749608.1749612",
+    "index": 8
+  },
+  "https://doi.org/10.1145/1516507.1516511": {
+    "title": "Joseph M. Morris, Alexander Bunkenburg, Malcolm Tyrrell: Term transformers: A new approach to state. 16:1-16:42",
+    "address": "https://doi.org/10.1145/1516507.1516511",
+    "index": 9
+  },
+  "https://doi.org/10.1145/1516507.1538825": {
+    "title": "Keshav Pingali, Kathryn S. McKinley: Remembrances of things past. 17.1:1-17.1:2",
+    "address": "https://doi.org/10.1145/1516507.1538825",
+    "index": 10
+  },
+  "https://doi.org/10.1145/1108970.1108974": {
+    "title": "Peter J. Stuckey, Martin Sulzmann: A theory of overloading. 1216-1269",
+    "address": "https://doi.org/10.1145/1108970.1108974",
+    "index": 11
+  },
+  "https://doi.org/10.1145/982158.982162": {
+    "title": "Aaron W. Keen, Tingjian Ge, Justin T. Maris, Ronald A. Olsson: JR: Flexible distributed programming in an extended Java. 578-608",
+    "address": "https://doi.org/10.1145/982158.982162",
+    "index": 12
+  },
+  "https://doi.org/10.1145/1018203.1018205": {
+    "title": "Nick Benton, Luca Cardelli, Cédric Fournet: Modern concurrency abstractions for C#. 769-804",
+    "address": "https://doi.org/10.1145/1018203.1018205",
+    "index": 13
+  },
+  "https://doi.org/10.1145/1018203.1018206": {
+    "title": "Christopher A. Stone: Extensible objects without labels. 805-835",
+    "address": "https://doi.org/10.1145/1018203.1018206",
+    "index": 14
+  },
+  "https://doi.org/10.1145/1018203.1018207": {
+    "title": "Todd D. Millstein, Colin Bleckner, Craig Chambers: Modular typechecking for hierarchically extensible datatypes and functions. 836-889",
+    "address": "https://doi.org/10.1145/1018203.1018207",
+    "index": 15
+  },
+  "https://doi.org/10.1145/1034774.1034775": {
+    "title": "C. Barry Jay: The pattern calculus. 911-937",
+    "address": "https://doi.org/10.1145/1034774.1034775",
+    "index": 16
+  },
+  "https://doi.org/10.1145/937563.937567": {
+    "title": "Davide Ancona, Giovanni Lagorio, Elena Zucca: Jam - designing a Java extension with mixins. 641-712",
+    "address": "https://doi.org/10.1145/937563.937567",
+    "index": 17
+  },
+  "https://doi.org/10.1145/945885.945890": {
+    "title": "Aske Simon Christensen, Anders Møller, Michael I. Schwartzbach: Extending Java for high-level Web service construction. 814-875",
+    "address": "https://doi.org/10.1145/945885.945890",
+    "index": 18
+  },
+  "https://doi.org/10.1145/514188.514189": {
+    "title": "J Strother Moore, George Porter: The apprentice challenge. 193-216",
+    "address": "https://doi.org/10.1145/514188.514189",
+    "index": 19
+  },
+  "https://doi.org/10.1145/570886.570888": {
+    "title": "K. Rustan M. Leino, Greg Nelson: Data abstraction and information hiding. 491-553",
+    "address": "https://doi.org/10.1145/570886.570888",
+    "index": 20
+  },
+  "https://doi.org/10.1145/371880.371887": {
+    "title": "Dan Grossman, J. Gregory Morrisett, Steve Zdancewic: Syntactic type abstraction. 1037-1080",
+    "address": "https://doi.org/10.1145/371880.371887",
+    "index": 21
+  },
+  "https://doi.org/10.1145/325478.325518": {
+    "title": "Matthias Blume, Andrew W. Appel: Hierarchical modularity. 813-847",
+    "address": "https://doi.org/10.1145/325478.325518",
+    "index": 22
+  },
+  "https://doi.org/10.1145/244795.244798": {
+    "title": "Nicholas Pippenger: Pure Versus Impure Lisp. 223-238",
+    "address": "https://doi.org/10.1145/244795.244798",
+    "index": 23
+  },
+  "https://doi.org/10.1145/244795.244801": {
+    "title": "Daniel M. Yellin, Robert E. Strom: Protocol Specifications and Component Adaptors. 292-333",
+    "address": "https://doi.org/10.1145/244795.244801",
+    "index": 24
+  },
+  "https://doi.org/10.1145/227699.227700": {
+    "title": "Cordelia V. Hall, Kevin Hammond, Simon L. Peyton Jones, Philip Wadler: Type Classes in Haskell. 109-138",
+    "address": "https://doi.org/10.1145/227699.227700",
+    "index": 25
+  },
+  "https://doi.org/10.1145/229542.229547": {
+    "title": "Carroll Morgan, Annabelle McIver, Karen Seidel: Probabilistic Predicate Transformers. 325-353",
+    "address": "https://doi.org/10.1145/229542.229547",
+    "index": 26
+  },
+  "https://doi.org/10.1145/200994.200998": {
+    "title": "Michael Codish, Anne Mulkers, Maurice Bruynooghe, Maria J. García de la Banda, Manuel V. Hermenegildo: Improving Abstract Interpretations by Combining Domains. 28-44",
+    "address": "https://doi.org/10.1145/200994.200998",
+    "index": 27
+  },
+  "https://doi.org/10.1145/200994.201002": {
+    "title": "Alexander Aiken, John H. Williams, Edward L. Wimmers: Safe: A Semantic Technique for Transforming Programs in the Presence of Errors. 63-84",
+    "address": "https://doi.org/10.1145/200994.201002",
+    "index": 28
+  },
+  "https://doi.org/10.1145/218570.218571": {
+    "title": "Craig Chambers, Gary T. Leavens: Typechecking and Modules for Multimethods. 805-843",
+    "address": "https://doi.org/10.1145/218570.218571",
+    "index": 29
+  },
+  "https://doi.org/10.1145/177492.177578": {
+    "title": "Suresh Jagannathan: Metalevel Building Blocks for Modular Systems. 456-492",
+    "address": "https://doi.org/10.1145/177492.177578",
+    "index": 30
+  },
+  "https://doi.org/10.1145/177492.177759": {
+    "title": "Mikkel Thorup: Controlled Grammatic Ambiguity. 1024-1050",
+    "address": "https://doi.org/10.1145/177492.177759",
+    "index": 31
+  },
+  "https://doi.org/10.1145/183432.183434": {
+    "title": "Annalisa Bossi, Sandro Etalle: Transforming Acyclic Programs. 1081-1096",
+    "address": "https://doi.org/10.1145/183432.183434",
+    "index": 32
+  },
+  "https://doi.org/10.1145/183432.183528": {
+    "title": "Antonio Brogi, Paolo Mancarella, Dino Pedreschi, Franco Turini: Modular Logic Programming. 1361-1398",
+    "address": "https://doi.org/10.1145/183432.183528",
+    "index": 33
+  },
+  "https://doi.org/10.1145/186025.186031": {
+    "title": "Konstantin Läufer, Martin Odersky: Polymorphic Type Inference and Abstract Data Types. 1411-1430",
+    "address": "https://doi.org/10.1145/186025.186031",
+    "index": 34
+  },
+  "https://doi.org/10.1145/186025.186051": {
+    "title": "Edmund M. Clarke, Orna Grumberg, David E. Long: Model Checking and Abstraction. 1512-1542",
+    "address": "https://doi.org/10.1145/186025.186051",
+    "index": 35
+  },
+  "https://doi.org/10.1145/186025.186091": {
+    "title": "Josephine Micallef, Gail E. Kaiser: Extending Attribute Grammars to Support Programming-in-the-Large. 1572-1612",
+    "address": "https://doi.org/10.1145/186025.186091",
+    "index": 36
+  },
+  "https://doi.org/10.1145/197320.197346": {
+    "title": "Nicholas Haines, Darrell Kindred, J. Gregory Morrisett, Scott Nettles, Jeannette M. Wing: Composing First-Class Transactions. 1719-1736",
+    "address": "https://doi.org/10.1145/197320.197346",
+    "index": 37
+  },
+  "https://doi.org/10.1145/169683.174157": {
+    "title": "Joel E. Richardson, Michael J. Carey, Daniel T. Schuh: The Design of the E Programming Language. 494-534",
+    "address": "https://doi.org/10.1145/169683.174157",
+    "index": 38
+  },
+  "https://doi.org/10.1145/114005.102804": {
+    "title": "Russell W. Quong, Mark A. Linton: Linking Programs Incrementally. 1-20",
+    "address": "https://doi.org/10.1145/114005.102804",
+    "index": 39
+  },
+  "https://doi.org/10.1145/114005.102805": {
+    "title": "Pascal Fradet, Daniel Le Métayer: Compilation of Functional Languages by Program Transformation. 21-51",
+    "address": "https://doi.org/10.1145/114005.102805",
+    "index": 40
+  },
+  "https://doi.org/10.1145/117009.117017": {
+    "title": "Ronald Morrison, Alan Dearle, Richard C. H. Connor, Alfred L. Brown: An Ad Hoc Approach to the Implementation of Polymorphism. 342-371",
+    "address": "https://doi.org/10.1145/117009.117017",
+    "index": 41
+  },
+  "https://doi.org/10.1145/115372.115320": {
+    "title": "Ron Cytron, Jeanne Ferrante, Barry K. Rosen, Mark N. Wegman, F. Kenneth Zadeck: Efficiently Computing Static Single Assignment Form and the Control Dependence Graph. 451-490",
+    "address": "https://doi.org/10.1145/115372.115320",
+    "index": 42
+  },
+  "https://doi.org/10.1145/77606.214515": {
+    "title": "F. Warren Burton: Type Extension Through Polymorphism. 135-138",
+    "address": "https://doi.org/10.1145/77606.214515",
+    "index": 43
+  },
+  "https://doi.org/10.1145/77606.214517": {
+    "title": "David Lorge Parnas: On Iterative Constructs. 139-141",
+    "address": "https://doi.org/10.1145/77606.214517",
+    "index": 44
+  },
+  "https://doi.org/10.1145/78942.78944": {
+    "title": "William E. Weihl: Linguistic Support for Atomic Data Types. 178-202",
+    "address": "https://doi.org/10.1145/78942.78944",
+    "index": 45
+  },
+  "https://doi.org/10.1145/59287.77345": {
+    "title": "Jørgen Steensgaard-Madsen: Type Representation of Objects by Functions. 67-89",
+    "address": "https://doi.org/10.1145/59287.77345",
+    "index": 46
+  },
+  "https://doi.org/10.1145/63264.63265": {
+    "title": "Wilf R. LaLonde: Designing Families of Data Types Using Exemplars. 212-248",
+    "address": "https://doi.org/10.1145/63264.63265",
+    "index": 47
+  },
+  "https://doi.org/10.1145/42192.42324": {
+    "title": "Gregory R. Andrews, Ronald A. Olsson, Michael H. Coffin, Irving Elshoff, Kelvin D. Nilsen, Titus D. M. Purdin, Gregg M. Townsend: An Overview of the SR Language and Implementation. 51-86",
+    "address": "https://doi.org/10.1145/42192.42324",
+    "index": 48
+  },
+  "https://doi.org/10.1145/42192.45067": {
+    "title": "Raymond T. Boute: System Semantics: Principles, Applications, and Implementation. 118-155",
+    "address": "https://doi.org/10.1145/42192.45067",
+    "index": 49
+  },
+  "https://doi.org/10.1145/42190.46167": {
+    "title": "Niklaus Wirth: Type Extensions. 204-214",
+    "address": "https://doi.org/10.1145/42190.46167",
+    "index": 50
+  },
+  "https://doi.org/10.1145/24039.24041": {
+    "title": "Jeanne Ferrante, Karl J. Ottenstein, Joe D. Warren: The Program Dependence Graph and Its Use in Optimization. 319-349",
+    "address": "https://doi.org/10.1145/24039.24041",
+    "index": 51
+  },
+  "https://doi.org/10.1145/2363.2364": {
+    "title": "David R. Barstow: On Convergence Toward a Database of Program Transformations. 1-9",
+    "address": "https://doi.org/10.1145/2363.2364",
+    "index": 52
+  },
+  "https://doi.org/10.1145/3916.3917": {
+    "title": "Flemming Nielson: Program Transformations in a Denotational Setting. 359-379",
+    "address": "https://doi.org/10.1145/3916.3917",
+    "index": 53
+  },
+  "https://doi.org/10.1145/3916.3987": {
+    "title": "James E. Donahue, Alan J. Demers: Data Types Are Values. 426-445",
+    "address": "https://doi.org/10.1145/3916.3987",
+    "index": 54
+  },
+  "https://doi.org/10.1145/3916.3986": {
+    "title": "Nachum Dershowitz: Program Abstraction and Instantiation. 446-477",
+    "address": "https://doi.org/10.1145/3916.3986",
+    "index": 55
+  },
+  "https://doi.org/10.1145/357233.357235": {
+    "title": "Robert D. Cameron, Mabo Robert Ito: Grammar-Based Definition of Metaprogramming Systems. 20-54",
+    "address": "https://doi.org/10.1145/357233.357235",
+    "index": 56
+  },
+  "https://doi.org/10.1145/2993.69615": {
+    "title": "William F. Appelbe, Anders P. Ravn: Encapsulation Constructs in Systems Programming Languages. 129-158",
+    "address": "https://doi.org/10.1145/2993.69615",
+    "index": 57
+  },
+  "https://doi.org/10.1145/1780.1781": {
+    "title": "Richard S. Bird: The Promotion and Accumulation Strategies in Transformational Programming. 487-504",
+    "address": "https://doi.org/10.1145/1780.1781",
+    "index": 58
+  },
+  "https://doi.org/10.1145/1780.1804": {
+    "title": "K. Mani Chandy, Jayadev Misra: The Drinking Philosopher's Problem. 632-646",
+    "address": "https://doi.org/10.1145/1780.1804",
+    "index": 59
+  },
+  "https://doi.org/10.1145/357195.357196": {
+    "title": "Philip M. Merlin, Gregor von Bochmann: On the Construction of Submodule Specifications and Communication Protocols. 1-25",
+    "address": "https://doi.org/10.1145/357195.357196",
+    "index": 60
+  },
+  "https://doi.org/10.1145/2166.357212": {
+    "title": "Harald Ganzinger: Parameterized Specifications: Parameter Passing and Implementation with Respect to Observability. 318-354",
+    "address": "https://doi.org/10.1145/2166.357212",
+    "index": 61
+  },
+  "https://doi.org/10.1145/357153.357159": {
+    "title": "M. Howard Williams: A Flexible Notation for Syntactic Definitions. 113-119",
+    "address": "https://doi.org/10.1145/357153.357159",
+    "index": 62
+  },
+  "https://doi.org/10.1145/357162.357164": {
+    "title": "Richard C. Holt, James R. Cordy, David B. Wortman: An Introduction to S/SL: Syntax/Semantic Language. 149-178",
+    "address": "https://doi.org/10.1145/357162.357164",
+    "index": 63
+  },
+  "https://doi.org/10.1145/357162.357170": {
+    "title": "Edward A. Ashcroft, William W. Wadge: R/ for Semantics. 283-294",
+    "address": "https://doi.org/10.1145/357162.357170",
+    "index": 64
+  },
+  "https://doi.org/10.1145/69622.357183": {
+    "title": "Richard C. Holt, David B. Wortman: A Model for Implementing Euclid Modules and Prototypes. 552-562",
+    "address": "https://doi.org/10.1145/69622.357183",
+    "index": 65
+  },
+  "https://doi.org/10.1145/357084.357085": {
+    "title": "David Harel: And/Or Programs: A New Approach to Structured Programming. 1-17",
+    "address": "https://doi.org/10.1145/357084.357085",
+    "index": 66
+  },
+  "https://doi.org/10.1145/357073.357074": {
+    "title": "Kenneth E. Iverson: Operators. 161-176",
+    "address": "https://doi.org/10.1145/357073.357074",
+    "index": 67
+  }
+}
