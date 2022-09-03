@@ -1,7 +1,8 @@
-import { default as UrlWrapper } from "./url-wrapper.js";
-import { default as Iterator } from "./iterate-open-save.js";
+import abstractFetcher from "./abstract-fetcher.js";
 import { default as Indexer } from "./indexer.js";
+import { default as Iterator } from "./iterate-open-save.js";
 import { default as Remover } from "./remover.js";
+import { default as UrlWrapper } from "./url-wrapper.js";
 
 // specify handles to use. Are applied in order on each others results (composed).
 // handles must be of the form:
@@ -12,6 +13,6 @@ import { default as Remover } from "./remover.js";
 // (e.g. the url-wrapper modifies the address field)
 // export {default as OpenBrowser} from './open-browser.js'
 
-const handles = [UrlWrapper, Remover, Indexer, Iterator];
+const handles = [UrlWrapper, Remover, Indexer, abstractFetcher, Iterator];
 
 export default handles;
