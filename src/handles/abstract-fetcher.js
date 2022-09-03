@@ -17,5 +17,5 @@ export default async function (input) {
         bar.increment()
     }
     
-    return {result: input, process_tag: "open_browser"}
+    return {result: input, process_tag: "fetch_abstract"}
 } 
